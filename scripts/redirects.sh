@@ -6,4 +6,4 @@ set -e
 # however SiteLeaf removes this file if it is included in the config.
 # This command renames the _redirects.markdown file to _redirects so it 
 # can then be built properly in travis.
-mv _pages/_redirects.md _redirects
+mv _redirects _site/_redirects
