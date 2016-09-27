@@ -118,8 +118,7 @@ sass:
   sass_dir: _sass
   style: compressed
 include:
-- _pages
-- _redirects
+- pages
 exclude:
 - ".gitignore"
 - README.md
