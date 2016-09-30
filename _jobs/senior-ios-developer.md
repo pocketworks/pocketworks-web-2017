@@ -1,9 +1,9 @@
 ---
 title: Senior iOS Devleoper Job
-date: 2016-08-01 00:00:00 Z
+date: 2016-08-01 01:00:00 +01:00
 permalink: "/jobs/senior-ios-developer-job-leeds-uk/"
+published: false
 page-title: Pocketworks - Mobile solutions for sales
-layout: page
 type: job
 description: Pocketworks offer advice, design and development around the implementation
   of apps for business.
@@ -21,6 +21,7 @@ avail-desc: If you're deeply into Swift or Obj-c and love crafting modern UIs, w
   and who understand queueing, threads, messaging and relational databases.
 avail-more-info-link: "/senior-ios-developer-job-leeds-uk/"
 avail-more-info-link-text: More about our iOS developer role
+layout: page
 ---
 
 ## Position: iOS Developer
