@@ -2,11 +2,10 @@
 title: Jobs
 permalink: "/jobs/"
 position: 4
-page-title: Pocketworks - Mobile solutions for sales
+page-title: Careers in Mobile Apps
 layout: page
 type: job
-description: Pocketworks offer advice, design and development around the implementation
-  of apps for business.
+description: Careers in mobile app development, app ux and design and technology sales  
 includes:
 - careers-hero
 - two-col-layout
@@ -15,8 +14,7 @@ includes:
 careers-hero:
   bg-img: BB8-dim.jpg
   title: Careers at Pocketworks
-  desc: Join the Pocketworks team and help us create thoughtful and beautifully engineered
-    technology experiences
+  desc: Join the Pocketworks team and help us create thoughtful and beautifully engineered technology experiences
 divider-img: office.jpg
 content-col: 12
 ---
