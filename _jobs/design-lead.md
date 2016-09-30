@@ -1,6 +1,6 @@
 ---
 title: Lead Designer
-date: 2016-08-03 00:00:00 Z
+date: 2016-08-03 01:00:00 +01:00
 permalink: "/jobs/mobile-lead-designer-leeds-uk/"
 page-title: Mobile Lead Designer Job in Leeds UK
 layout: page
@@ -10,16 +10,16 @@ description: We're looking for a lead designer to help our growing uk mobile app
 includes:
 - careers-hero
 careers-hero:
-  bg-img: "office-dim.jpg"
+  bg-img: office-dim.jpg
   title: Lead Designer Role in Leeds, UK
   desc: Join the Pocketworks team and help us create thoughtful and beautifully engineered
     technology experiences
 content-col: 8
 avail-title: Lead Designer, Leeds, Office Based
-avail-desc: Help us run Google Design Sprints (or similar) to create awesome mobile-first  products for startups and established businesses.
+avail-desc: Help us run Google Design Sprints (or similar) to create awesome mobile-first  products
+  for startups and established businesses.
 avail-more-info-link: "/mobile-lead-designer-leeds-uk/"
 avail-more-info-link-text: More about our lead mobile designer role
-
 ---
 
 ## Position: Lead Designer

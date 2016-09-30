@@ -5,7 +5,7 @@ position: 4
 page-title: Careers in Mobile Apps
 layout: page
 type: job
-description: Careers in mobile app development, app ux and design and technology sales  
+description: Careers in mobile app development, app ux and design and technology sales
 includes:
 - careers-hero
 - two-col-layout
@@ -14,7 +14,8 @@ includes:
 careers-hero:
   bg-img: BB8-dim.jpg
   title: Careers at Pocketworks
-  desc: Join the Pocketworks team and help us create thoughtful and beautifully engineered technology experiences
+  desc: Join the Pocketworks team and help us create thoughtful and beautifully engineered
+    technology experiences
 divider-img: office.jpg
 content-col: 12
 ---
