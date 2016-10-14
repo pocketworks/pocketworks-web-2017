@@ -2,8 +2,8 @@
 title: App Developers UK
 permalink: "/app-developers-uk/"
 page-title: Mobile App Developers, UK
-description: Mobile advice, insights and app development for iPhone, Android and Windows
-  phone based in the UK.
+description: UK mobile apps, insights and app development for iPhone, Android and
+  Windows phone based in the UK.
 includes:
 - white-hero
 - clients
