@@ -13,7 +13,6 @@ grid-items:
 - url: "/case-study/a-simpler-way-to-sell-in-healthcare/"
 - url: "/case-study/reducing-queues-at-hotel-reception-desks/"
 - url: "/case-study/helping-dental-students-learn-on-the-move/"
-- url: "/case-study/helping-a-taxi-startup-to-scale/"
 - url: "/case-study/asdas-first-mobile-app/"
 - url: "/case-study/helping-dental-students-learn-on-the-move/"
   client: In Support of Schools
