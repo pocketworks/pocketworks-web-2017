@@ -8,6 +8,7 @@ layout: page
 description: Mobile advice, mobile apps and online solutions
 keywords: ''
 grid-items:
+- url: "/case-study/connecting-energenie-smarthome-to-nest-thermostats/"
 - url: "/case-study/helping-a-taxi-startup-to-scale/"
 - url: "/case-study/a-simpler-way-to-sell-in-healthcare/"
 - url: "/case-study/reducing-queues-at-hotel-reception-desks/"
@@ -25,4 +26,3 @@ includes:
 - sectors
 - what-we-do
 ---
-
