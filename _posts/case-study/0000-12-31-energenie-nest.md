@@ -1,15 +1,20 @@
 ---
 title: Reaching 1.1M new households via Nest integration
-date: 0000-12-31 23:58:30 -00:01
+date: 0000-12-31 23:58:15 -00:01
 permalink: "/case-study/connecting-energenie-smarthome-to-nest-thermostats/"
 description: Opening up 1.1M households via Nest integration
 image: https://pocketworks-website.s3.amazonaws.com/nest_lifestyle.jpg
-tagline: 'Helping Energenie integrate with Google Nest, taping into a huge new customer-base whilst offer existing customers a more streamlined, integrated product experience'
+tagline: Helping Energenie integrate with Google Nest, taping into a huge new customer-base
+  whilst offer existing customers a more streamlined, integrated product experience
 client: Energenie
 client-article: Energenie
 grid-title: Reaching 1.1M new households via Nest integration
-case-study-challenge: Energenie wanted to make their own radiator values work with Nest, to increase their value to customers and expand their potential product sales. Google owned Nest have over 1.1 million learning thermostats installed in homes.
-case-study-outcome: 'We designed a new mobile app user experience that allows Energenie customers to use Nest from within the Energenie app. We handled many aspects of the technical integration that made the systems work together.'
+case-study-challenge: Energenie wanted to make their own radiator values work with
+  Nest, to increase their value to customers and expand their potential product sales.
+  Google owned Nest have over 1.1 million learning thermostats installed in homes.
+case-study-outcome: We designed a new mobile app user experience that allows Energenie
+  customers to use Nest from within the Energenie app. We handled many aspects of
+  the technical integration that made the systems work together.
 meta-post-type: Case Study
 layout: case-study
 ---
