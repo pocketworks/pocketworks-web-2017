@@ -4,6 +4,7 @@ date: 0000-12-31 23:58:30 -00:01
 permalink: "/case-study/rackeye-a-safer-more-intelligent-warehouse/"
 description: Rack Eye Intelligent Warehouse Security
 image: http://www.asafe.com/data/blog/images/post/RackEye_advert.JPG
+logo-image: asda-logo-40px.png
 tagline: 'RackEye helps warehouse owners increase safety and reduce audit costs '
 client: A-Safe
 client-article: A-Safe

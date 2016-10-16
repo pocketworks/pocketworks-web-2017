@@ -9,6 +9,7 @@ tagline: In 2008, we helped Asda put Price Guarantee into the pockets of custome
 client: Asda
 grid-title: A fresh take on supermarket price comparison
 image: asda-store.jpg
+logo-image: asda-logo-40px.png
 hero-image: asda-logo.jpg
 case-study-challenge: Helping Asda learn about mobile before mobile was 'a thing'
 case-study-outcome: The Asda Price Guarantee app for iPhone, allowing customers to
@@ -34,4 +35,3 @@ Pocketworks (previously known as Engine Room Apps) approached Asda with a propos
   The app allowed customers to enter receipt details, compare prices, and receive cash back in store.
 </figcaption>
 </figure>
-

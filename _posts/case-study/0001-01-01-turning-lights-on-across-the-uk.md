@@ -10,6 +10,7 @@ tagline: Helping Energenie enter the UK smarthome hardware market
 client: Energenie
 grid-title: Helping Energenie enter the SmartHome market
 image: energenie-mi-home-booth-2.jpg
+logo-image: energenie-logo-40px.png
 hero-image: energenie-mihome-android-scene.jpg
 case-study-challenge: Design and develop apps for controlling lights and home appliances
 case-study-outcome: Mi|Home, an Android and iPhone app that allows consumers to remote-control
@@ -39,4 +40,3 @@ which are the essential user interface of the Mi|Home range.
 ![Energenie exhibited their apps at the Gadget Show UK.](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&url=https://pocketworks-website.s3.amazonaws.com/energenie-mi-home-booth-1.jpg){: .img-responsive}
 <figcaption>Energenie exhibited their apps at the Gadget Show UK.</figcaption>
 </figure>
-

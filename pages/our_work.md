@@ -18,6 +18,7 @@ grid-items:
   client: In Support of Schools
   title: Startup branding and launch strategy
   image: isos-thumb.jpg
+  logo-image: pocketworks-logo-40px.png
 - url: "/case-study/modernising-360-review-for-board-members/"
 - url: "/case-study/turning-lights-on-across-the-uk/"
 includes:

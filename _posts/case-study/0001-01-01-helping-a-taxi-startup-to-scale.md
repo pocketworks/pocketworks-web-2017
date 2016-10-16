@@ -9,6 +9,7 @@ tagline: Helping Veezu increase taxi booking efficiency across the UK
 client: Veezu
 grid-title: Helping a taxi startup to scale
 image: http://i3.walesonline.co.uk/incoming/article10701782.ece/ALTERNATES/s615/Paul-Raglan-chief-executive-officer-at-Veezu-4.jpg
+logo-image: veezu-logo-40px.png
 case-study-challenge: Deploying a taxi booking app to several UK cities without loss
   of service
 case-study-outcome: Consumer booking apps launched in Leeds, Cardiff, Newport, Bridgend

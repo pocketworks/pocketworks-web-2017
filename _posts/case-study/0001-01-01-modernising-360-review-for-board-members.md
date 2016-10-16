@@ -10,6 +10,7 @@ tagline: Helping quinn offer a superior 360 review service to senior management
 client: The Quinn Partnership
 grid-title: Modernising 360 reviews for board members
 image: portfolio/quinn-thumb.jpg
+logo-image: 360scope-logo-40px.png
 case-study-challenge: Design a visually exciting and simple to use 360 review system
 case-study-outcome: 360 Scope, a cloud based online 360 questionnaire tool
 ---
@@ -29,4 +30,3 @@ The Quinn Partnership’s 360Scope is an intelligently designed range of focused
 </figure>
 
 [View the 360 Scope web site](http://360scope.co.uk)
-

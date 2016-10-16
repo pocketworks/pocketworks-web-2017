@@ -4,6 +4,7 @@ date: 0000-12-31 23:58:15 -00:01
 permalink: "/case-study/connecting-energenie-smarthome-to-nest-thermostats/"
 description: Opening up 1.1M households via Nest integration
 image: https://pocketworks-website.s3.amazonaws.com/nest_lifestyle.jpg
+logo-image: energenie-logo-40px.png
 tagline: Helping Energenie integrate with Google Nest, taping into a huge new customer-base
   whilst offer existing customers a more streamlined, integrated product experience
 client: Energenie

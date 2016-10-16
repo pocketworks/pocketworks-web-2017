@@ -12,6 +12,7 @@ client: Hilton DoubleTree
 client-article: Many UK taxi firms
 grid-title: Reducing queues at hotel reception desks
 image: portfolio/kiosk-thumb.jpg
+logo-image: doubletree-logo-40px.png
 hero-image: kiosk_dbt_02.jpg
 case-study-challenge: Reducing the wait time at hotel reception desks
 case-study-outcome: An iPad booking taxi kiosk that improves customer satisfaction
@@ -28,4 +29,3 @@ At busy times, reception staff can be inundated with guests requesting taxis. Ou
   The kiosk is installed in over 15 hotels.
 </figcaption>
 </figure>
-

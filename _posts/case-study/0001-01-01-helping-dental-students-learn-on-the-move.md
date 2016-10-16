@@ -10,6 +10,7 @@ tagline: The Medical Protection Society offer increased value to students
 client: Medical Protection Society
 grid-title: A new channel for engaging customers
 image: portfolio/mps-thumb.jpg
+logo-image: mps-logo-40px.png
 case-study-challenge: Develop a new marketing channel to attract and engage dental
   students as new customers, allowing for personalised marketing
 case-study-outcome: Your Future, an Android and iPhone app that allows MPS to distribute
@@ -62,4 +63,3 @@ The open rates for targeted and relevant push messages can be up to 85%.
 ![Wireframes were created early in the process to explore how the app could work](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&url=https://pocketworks-website.s3.amazonaws.com/mps-wireframes.jpg){: .img-responsive}
 <figcaption>Wireframes are created early in the process to explore how the app will work</figcaption>
 </figure>
-

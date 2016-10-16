@@ -975,8 +975,9 @@ nav#filter a {
 .card > .surround {
   border: 1px solid #eee;
   background-color: rgb(253,253,253);
-  min-height: 470px;
-  width: 100%
+  min-height: 520px;
+  width: 100%;
+
 
   -webkit-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.15);
   -moz-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.15);
@@ -987,8 +988,8 @@ nav#filter a {
   vertical-align: middle;
 }
 .card .brand img{
-  max-height: 60px;
-  padding: 8px 0px 0px 10px;
+  max-height: 70px;
+  padding: 20px 0px 0px 1em;
 }
 .card .top{
   /*padding: 20px;*/
@@ -998,10 +999,10 @@ nav#filter a {
 }
 .card .top img{
   width: 100%;
+
 }
 .card .content {
   margin: 10px;
-
 }
 
 .card .content p{
