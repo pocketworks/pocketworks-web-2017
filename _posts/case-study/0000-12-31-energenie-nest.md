@@ -19,13 +19,17 @@ meta-post-type: Case Study
 layout: case-study
 ---
 
-<img alt="Nest Thermostats" src="http://automation.tips/wp-content/uploads/2015/03/nest-learning-thermostat-660x400.jpg" class="float-right img-reponsive" style="width: 200px; padding: 1em;" />
+<img alt="Nest Thermostats" src="http://automation.tips/wp-content/uploads/2015/03/nest-learning-thermostat-660x400.jpg" class="float-right img-reponsive" style="width: 350px; padding: 1em;" />
 
 Energenie sell SmartHome devices to help consumers control their homes via an app. One part of this is a smart radiator valve that allows consumers to control the temperature of each room in their house from an app.
+
 
 Pocketworks have developed this mobile app for Energenie since 2014.
 
 Energenie are always looking for ways to increase their market reach, and saw an opportunity with Nest. Nest is a Google owned company that sells smart thermostats, now installed in over 1.1 million homes. The smart thermostat market is valued at over £700M.
+
+
+
 
 Energenie asked Pocketworks to help them achieve a simple, usable integration with Nest. Our work included:
 

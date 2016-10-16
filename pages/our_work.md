@@ -19,10 +19,10 @@ grid-items:
   title: Startup branding and launch strategy
   image: isos-thumb.jpg
 - url: "/case-study/modernising-360-review-for-board-members/"
+- url: "/case-study/turning-lights-on-across-the-uk/"
 includes:
 - feat-blue
 - grid-section
 - sectors
 - what-we-do
 ---
-
