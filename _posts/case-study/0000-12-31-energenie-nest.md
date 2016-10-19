@@ -51,5 +51,5 @@ Energenie asked Pocketworks to help them achieve a simple, usable integration wi
 
 
 
-<img alt="Energenie Nest 1" src="http://nest.energenie4u.co.uk/style/images/art/sidebar.png"/>
-<img alt="Energenie Nest 2" src="http://nest.energenie4u.co.uk/style/images/slider/nest-arm2.png"/>
+<img alt="Energenie Nest 1" src="http://nest.energenie4u.co.uk/style/images/art/sidebar.png" class="img-responsive"/>
+<img alt="Energenie Nest 2" src="http://nest.energenie4u.co.uk/style/images/slider/nest-arm2.png" class="img-responsive"/>
