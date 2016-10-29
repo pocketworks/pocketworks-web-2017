@@ -89,24 +89,28 @@ hero-img: warehouse-dim.jpg
     <div class="container">
     <div class="row">     
       <div class="col-md-12 align-center">
-        <h2>How we can help</h2>
+        <h2>How we can help you</h2>
       </div>
     </div>
         <div class="row">     
           <div class="col-md-6">
             <ul>
-              <li>Advice on overall solutions design</li>
+              <li>Advice on possibilities and strategy</li>
+              <li>High level software architecture</li>
               <li>Mobile application design and development</li>
               <li>Cloud software design and development</li>
-              <li>Integration with ERP and 3rd parties</li>
+              <li>High volume data storage and reports</li>
+              <li>Selecting the right hosting solution</li>
             </ul>
           </div>
           <div class="col-md-6">
             <ul>
-              <li>Hardware integration experience</li>
+              <li>Integration with ERP and 3rd parties</li>
+              <li>Connecting hardware to cloud and mobile</li>
               <li>Hardware prototyping with Raspberry Pi</li>
               <li>Gateway and Hub software development</li>
               <li>User testing and user experience design</li>
+              <li>24/7/365 operational support with SLA</li>
             </ul>
           </div>
         </div>
