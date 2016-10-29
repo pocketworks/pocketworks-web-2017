@@ -15,7 +15,12 @@ grid-items:
 - url: "/case-study/connecting-energenie-smarthome-to-nest-thermostats/"
   cols: 8
 - url: "/case-study/asdas-first-mobile-app/"
-- url: "/blog/2016-06-10-3-ways-apple-is-helping-businesses-in-2016/"
+- url: "/iot/"
+  client: "Your Hardware"
+  theme: orange
+  title: Helping manufacturers take hardware-enabled ideas to market
+  image: energenie-socket-board.jpg
+  logo-image: pocketworks-logo-40px.png
 - url: "/case-study/reducing-queues-at-hotel-reception-desks/"
   cols: 8
 quote:
