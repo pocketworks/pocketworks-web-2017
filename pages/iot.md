@@ -30,7 +30,7 @@ hero-img: warehouse-dim.jpg
 
 
         <div class="col-md-4">
-          <blockquote>Working with a new Smart Home startup, we took on the challenge of developing a mobile experience that would empower consumers to control their home in sophisticated ways, but with a simple and self-explanatory user experience.</blockquote>
+          <blockquote>Working with Sandal PLC, we took on the challenge of developing a mobile experience for Mi|Home - a startup venture selling SmartHome devices. We devised a user experience that empowered consumers to control their home in sophisticated ways without the complexity of traditional SmartHome apps.</blockquote>
           <p>Tobin Harris<br/>Founder &amp; CTO, Pocketworks</p>
         </div>
 
