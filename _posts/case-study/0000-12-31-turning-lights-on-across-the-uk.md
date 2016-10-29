@@ -1,6 +1,6 @@
 ---
 title: Turning lights on across the UK
-date: 0000-12-31 23:58:45 -00:01
+date: 0000-12-31 23:58:30 -00:01
 permalink: "/case-study/turning-lights-on-across-the-uk/"
 layout: case-study
 meta-post-type: Case Study
