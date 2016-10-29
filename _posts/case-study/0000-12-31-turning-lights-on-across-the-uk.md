@@ -10,6 +10,7 @@ tagline: Helping Energenie enter the UK smarthome hardware market
 client: Energenie
 grid-title: Helping Energenie enter the SmartHome market
 image: energenie-mi-home-booth-2.jpg
+cols: 4
 logo-image: energenie-logo-40px.png
 hero-image: energenie-mihome-android-scene.jpg
 case-study-challenge: Design and develop apps for controlling lights and home appliances
