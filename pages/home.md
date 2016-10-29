@@ -16,7 +16,7 @@ grid-items:
   cols: 8
 - url: "/case-study/asdas-first-mobile-app/"
 - url: "/iot/"
-  client: "Your Hardware"
+  client: Your Hardware
   theme: orange
   title: Helping manufacturers take hardware-enabled ideas to market
   image: energenie-socket-board.jpg
