@@ -5,7 +5,7 @@ position: 15
 page-title: IoT
 layout: default
 description: Creating software to connect your smart IoT hardware to your customers
-hero-title: Connect, analyse and manage your smart hardware
+hero-title: Smart software for your smart hardware
 hero-img: warehouse-dim.jpg
 ---
 
@@ -15,7 +15,7 @@ hero-img: warehouse-dim.jpg
     <div class="container">
         <div class="row">          
           <div class="col-md-8 col-md-offset-2 align-center">
-            <h2>Take your smart hardware ideas to market using cloud and mobile software</h2>
+            <h2>Take your smart hardware ideas to market with our help</h2>
             <p>
             We help forward-thinking manufacturers stand out from their competitors by developing compelling mobile and cloud software experiences. We work with them to devise effective solutions and take them to market quickly.
             </p>
@@ -55,9 +55,9 @@ hero-img: warehouse-dim.jpg
           <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&refresh=2592001&url=https://pocketworks-website.s3.amazonaws.com/energenie-socket-board.jpg" class="img-responsive" alt="IoT Hardware">
         </div>     
           <div class="col-md-6 ">
-            <h2>Jump-starting your connected hardware venture</h2>
+            <h2>Mobile, cloud and big-data</h2>
             <p>
-            Pocketworks is a mobile and cloud software specialist offering advice and experience to companies looking to launch their own IoT products. We're helping our clients take end-to-end solutions to market quickly using our experience in solutions design, cloud software development, integration and mobile applications.
+            Pocketworks is a mobile and cloud software specialist offering advice and experience to companies looking to launch their own IoT products. We're helping our clients take end-to-end solutions to market quickly using our experience in solutions design, cloud software development, data analysis, integration and mobile applications.
             </p>
           </div>
         </div>
