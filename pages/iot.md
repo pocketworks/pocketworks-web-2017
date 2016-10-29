@@ -8,6 +8,7 @@ description: Creating software to connect your smart IoT hardware to your custom
 hero-title: Connect, analyse and manage your smart hardware
 hero-img: warehouse-dim.jpg
 ---
+
 {% include orange-hero.html hero_img=page.hero-img %}
 
 <section class="section bg-white" >
