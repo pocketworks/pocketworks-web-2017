@@ -17,7 +17,7 @@ hero-img: warehouse-dim.jpg
           <div class="col-md-8 col-md-offset-2 align-center">
             <h2>Creating the software that underpins your IoT venture</h2>
             <p>
-            We help forward-thinking manufacturers stand out from their competitors by developing complete mobile, cloud and data visualisation software experiences.
+            We help forward-thinking manufacturers stand out from their competitors by developing connected mobile, cloud and database software solutions.
             </p>
             <a href="/contact/" class="btn btn-border btn-large">Contact us to start your IoT project</a>
           </div>
@@ -66,6 +66,33 @@ hero-img: warehouse-dim.jpg
           </div>
         </div>
       </div>
+</section>
+
+<section class="section bg-white">
+    <div class="container">
+    <div class="row">     
+      <div class="col-md-12 align-center">
+        <h2>Common Challenges</h2>
+      </div>
+    </div>
+        <div class="row">     
+          <div class="col-md-6">
+            <ul>
+              <li>Remote firmware and firmware management software for collecting data</li>
+              <li>IoT device monitoring software for assessing operation of IoT devices</li>
+              <li>Version control for pushing updates to the IoT device</li>              
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <ul>
+              <li>Data storage over the cloud or servers</li>
+              <li>Big-data analytics for assessing and optimizing a system</li>
+              <li>Version control for pushing updates to the IoT device</li>              
+            </ul>
+          </div>          
+        </div>
+
+    </div>
 </section>
 
 <section class="section" >
