@@ -1,6 +1,6 @@
 ---
 title: Reaching 1.1M new households via Nest integration
-date: 0000-12-31 23:57:15 -00:01
+date: 0000-12-31 23:57:00 -00:01
 permalink: "/case-study/connecting-energenie-smarthome-to-nest-thermostats/"
 description: Opening up 1.1M households via Nest integration
 image: nest_lifestyle.jpg
