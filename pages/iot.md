@@ -2,9 +2,9 @@
 title: IoT
 permalink: "/iot/"
 position: 15
-page-title: IoT
+page-title: IoT Software Development
 layout: default
-description: Creating software to connect your smart IoT hardware to your customers
+description: Creating mobile, cloud and data reporting software for IoT hardware manufacturers
 hero-title: Smart software for your smart hardware
 hero-img: warehouse-dim.jpg
 ---
