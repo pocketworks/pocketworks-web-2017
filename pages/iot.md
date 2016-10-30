@@ -17,8 +17,9 @@ hero-img: warehouse-dim.jpg
           <div class="col-md-8 col-md-offset-2 align-center">
             <h2>Creating the software that underpins your IoT venture</h2>
             <p>
-            We help forward-thinking manufacturers stand out from their competitors by developing complete mobile, cloud and data visualisation software experiences. We help you with the big pictures - discovering practical, effective solutions and taking them to market.
+            We help forward-thinking manufacturers stand out from their competitors by developing complete mobile, cloud and data visualisation software experiences.
             </p>
+            <a href="/contact/" class="btn btn-border btn-large">Contact us to start your IoT project</a>
           </div>
         </div>
       </div>
@@ -55,9 +56,12 @@ hero-img: warehouse-dim.jpg
           <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&refresh=2592001&url=https://pocketworks-website.s3.amazonaws.com/energenie-socket-board.jpg" class="img-responsive" alt="IoT Hardware">
         </div>     
           <div class="col-md-6 ">
-            <h2>Mobile, cloud and big-data</h2>
+            <h2>Taking your idea to market</h2>
+            <p>            
+            The fastest and most cost effective approach is to prototype your ideas quickly and then test in the field. There may be many uncertainties, so your roadmap should be designed for constant learning. You'll need your key stakeholders, hardware team and software team to commit to this. Pocketworks has experience running fast-paced projects that involve IoT and hardware. If you'd like our to de-risk your projects, please get in touch.            
+            </p>
             <p>
-            Pocketworks is a mobile and cloud software specialist offering advice and experience to companies looking to launch their own IoT products. We're helping our clients take end-to-end solutions to market quickly using our experience in solutions design, cloud software development, data analysis, integration and mobile applications.
+            <a href="/contact/" class="btn btn-border btn-large">Start your IoT project</a>
             </p>
           </div>
         </div>
@@ -110,10 +114,15 @@ hero-img: warehouse-dim.jpg
               <li>Connecting hardware to cloud and mobile</li>
               <li>Hardware prototyping with Raspberry Pi</li>
               <li>Gateway and Hub software development</li>
-              <li>User testing and user experience design</li>
+              <li>User testing and hypothesis validation</li>
               <li>24/7/365 operational support with SLA</li>
             </ul>
-          </div>
+          </div>          
+        </div>
+        <div class="row">
+        <div class="col-md-12 align-center pad-top40">
+        <a href="/contact/" class="btn btn-border btn-large">Contact us to start your IoT project</a>
+        </div>
         </div>
     </div>
 </section>
