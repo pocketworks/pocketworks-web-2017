@@ -15,9 +15,9 @@ hero-img: warehouse-dim.jpg
     <div class="container">
         <div class="row">          
           <div class="col-md-8 col-md-offset-2 align-center">
-            <h2>Take your smart hardware ideas to market with our help</h2>
+            <h2>Creating the software that underpins your IoT venture</h2>
             <p>
-            We help forward-thinking manufacturers stand out from their competitors by developing compelling mobile and cloud software experiences. We work with them to devise effective solutions and take them to market quickly.
+            We help forward-thinking manufacturers stand out from their competitors by developing complete mobile, cloud and data visualisation software experiences. We help you with the big pictures - discovering practical, effective solutions and taking them to market.
             </p>
           </div>
         </div>

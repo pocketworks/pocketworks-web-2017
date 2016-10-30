@@ -7,7 +7,7 @@ image: nest_lifestyle.jpg
 logo-image: energenie-logo-40px.png
 tagline: Helping Energenie integrate with Google Nest, tapping into a huge new customer-base
   whilst offer existing customers a more streamlined, integrated product experience
-client: Energenie
+client: Energenie &amp; Nest
 client-article: Energenie
 grid-title: Reaching 1.1M new households via Nest integration
 case-study-challenge: Energenie wanted to make their own radiator values work with
