@@ -4,7 +4,8 @@ permalink: "/iot/"
 position: 15
 page-title: IoT Software Development
 layout: default
-description: Creating mobile, cloud and data reporting software for manufacturers using IoT
+description: Creating mobile, cloud and data reporting software for manufacturers
+  using IoT
 hero-title: Smart software for your smart hardware
 hero-img: warehouse-dim.jpg
 ---

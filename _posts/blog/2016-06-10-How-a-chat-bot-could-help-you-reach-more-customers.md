@@ -1,6 +1,6 @@
 ---
 title: How a chat bot could help you reach more customers
-date: 2016-06-10 00:00:00 Z
+date: 2016-06-10 01:00:00 +01:00
 page-title: How a chat bot could help you reach more customers
 layout: blog
 meta-post-type: Blog-Type
