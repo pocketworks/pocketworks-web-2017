@@ -4,7 +4,7 @@ permalink: "/iot/"
 position: 15
 page-title: IoT Software Development
 layout: default
-description: Creating mobile, cloud and data reporting software for IoT hardware manufacturers
+description: Creating mobile, cloud and data reporting software for manufacturers using IoT
 hero-title: Smart software for your smart hardware
 hero-img: warehouse-dim.jpg
 ---
@@ -56,7 +56,7 @@ hero-img: warehouse-dim.jpg
           <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&refresh=2592001&url=https://pocketworks-website.s3.amazonaws.com/energenie-socket-board.jpg" class="img-responsive" alt="IoT Hardware">
         </div>     
           <div class="col-md-6 ">
-            <h2>Taking your idea to market</h2>
+            <h2>Taking your IoT idea to market</h2>
             <p>            
             The fastest and most cost effective approach is to prototype your ideas quickly and then test in the field. There may be many uncertainties, so your roadmap should be designed for constant learning. You'll need your key stakeholders, hardware team and software team to commit to this. Pocketworks has experience running fast-paced projects that involve IoT and hardware. If you'd like our to de-risk your projects, please get in touch.            
             </p>
@@ -64,6 +64,59 @@ hero-img: warehouse-dim.jpg
             <a href="/contact/" class="btn btn-border btn-large">Start your IoT project</a>
             </p>
           </div>
+        </div>
+      </div>
+</section>
+
+<section class="section bg-white hidden">
+    <div class="container">
+        <div class="row">     
+          <div class="col-md-6 ">
+            <h2>Capture and Analyse. Securely</h2>
+            <p>            
+            Define the value of collected data. Ehnance analytics capabilities. Safety of cusotmers information. Create better business apps.
+            </p>
+            <p>
+            <a href="/contact/" class="btn btn-border btn-large">Start your IoT project</a>
+            </p>
+          </div>
+          <div class="col-md-6">
+            <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&refresh=2592001&url=https://pocketworks-website.s3.amazonaws.com/energenie-socket-board.jpg" class="img-responsive" alt="IoT Hardware">
+          </div>               
+        </div>
+      </div>
+</section>
+
+<section class="section bg-white hidden">
+    <div class="container">
+        <div class="row">    
+          <div class="col-md-6">
+            <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&refresh=2592001&url=https://pocketworks-website.s3.amazonaws.com/energenie-socket-board.jpg" class="img-responsive" alt="IoT Hardware">
+          </div>   
+          <div class="col-md-6 ">
+            <h2>Good Stuff</h2>
+            <p>            
+            The Three Tiers of Adoption:
+            http://www.ptc.com/~/media/Files/PDFs/IoT/PTC-SCP-Presentation-Key-Research_Findings.pdf?la=en
+            </p>
+            <p>
+            Manufacturers seeking to accelerate product and service innovation
+and efficiently meet the growing diversity of customer demand and regulation
+increasingly turn to embedded software, sensors, and processors.
+http://www.ptc.com/~/media/Files/PDFs/IoT/PTC_Smart_Connected_Products_eBook.ashx?la=en
+            </p>
+            <p>
+            These new smart, connected product capabilities create opportunities for
+consumers and manufacturers.
+</p>
+            <p>
+            Pocketworks can help your company
+        create, operate, and service smart, connected products.        
+            </p>
+            <p>
+            <a href="/contact/" class="btn btn-border btn-large">Start your IoT project</a>
+            </p>
+          </div>                       
         </div>
       </div>
 </section>
