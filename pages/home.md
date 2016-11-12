@@ -16,9 +16,9 @@ grid-items:
   cols: 8
 - url: "/case-study/asdas-first-mobile-app/"
 - url: "/iot/"
-  client: Your Hardware
+  client: IoT & Smart Hardware
   theme: orange
-  title: Helping manufacturers take hardware-enabled ideas to market
+  title: See how we're helping manufacturers take hardware-enabled ideas to market
   image: energenie-socket-board.jpg
   logo-image: pocketworks-logo-40px.png
 - url: "/case-study/reducing-queues-at-hotel-reception-desks/"
