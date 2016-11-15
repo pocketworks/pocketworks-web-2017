@@ -473,10 +473,6 @@ h1 a.navbar-brand {
     color: black;
 }
 
-.navbar-collapse.in {
-	margin-top: -5px !important;
-}
-
 /*===========================
   --- Flex Slider ----
 =========================== */
@@ -1609,7 +1605,13 @@ Media queries
         font-size: 40px;
     }
 
+	.navbar .navbar-header {
+		background: white;
+	}
 
+	.navbar .navbar-collapse {
+		background: white;
+	}
 
 }
 
