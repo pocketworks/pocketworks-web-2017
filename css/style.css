@@ -1456,6 +1456,7 @@ a.socialIcon:hover, .socialHoverClass {
   padding: 15px;
   font-family: "Montserrat"; font-weight: 300;
   font-size: 1em;
+  white-space: normal;
 }
 
 .btn.bold {
