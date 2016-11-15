@@ -1,4 +1,7 @@
 (function ($) {
+  $(function () {
+    $(window).trigger('scroll');
+  });
 
 	$(window).scroll(function(){
 		if ($(this).scrollTop() > 100) {
