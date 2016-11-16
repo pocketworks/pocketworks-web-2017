@@ -1566,9 +1566,9 @@ Media queries
  * iPhone and small screens
 */
 @media (max-width: 767px) {
-	h1 {
-		font-size: 45px;
-	}
+    h1 {
+      font-size: 45px;
+    }
 
     .case-study h1 {
       font-size: 40px;
@@ -1610,13 +1610,13 @@ Media queries
         font-size: 40px;
     }
 
-	.navbar .navbar-header {
-		background: white;
-	}
+    .navbar .navbar-header {
+      background: white;
+    }
 
-	.navbar .navbar-collapse {
-		background: white;
-	}
+    .navbar .navbar-collapse {
+      background: white;
+    }
 
 }
 
@@ -1626,8 +1626,8 @@ Media queries
 
 /* This hack is needed to offset the fixed header for anchor links */
 :target:before {
-	content: "";
-	display: block;
-	height: 50px;
-	margin: -50px 0 0;
+  content: "";
+  display: block;
+  height: 50px;
+  margin: -50px 0 0;
 }
