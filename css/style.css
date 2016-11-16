@@ -1623,3 +1623,11 @@ Media queries
 #travelMapperTitle {
   font-size: 50px;
 }
+
+/* This hack is needed to offset the fixed header for anchor links */
+:target:before {
+	content: "";
+	display: block;
+	height: 50px;
+	margin: -50px 0 0;
+}
