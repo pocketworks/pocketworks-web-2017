@@ -1,8 +1,8 @@
 ---
 title: Product Owner
-date: 2016-08-02 00:00:00 Z
+date: 2016-08-02 01:00:00 +01:00
+published: false
 page-title: Pocketworks - Mobile solutions for sales
-layout: page
 type: job
 description: Pocketworks offer advice, design and development around the implementation
   of apps for business.
@@ -14,6 +14,7 @@ careers-hero:
   desc: Join the Pocketworks team and help us deliver amazing technology experiences
 content-col: 8
 avail-title: 'Product Owner: £20K-£30K, Leeds Office Based'
+layout: page
 ---
 
 If you are a natural business communicator, love working with creative folk, have project management training and experience of digital, then let's talk!
