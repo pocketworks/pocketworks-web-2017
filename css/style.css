@@ -1566,6 +1566,10 @@ Media queries
  * iPhone and small screens
 */
 @media (max-width: 767px) {
+	h1 {
+		font-size: 45px;
+	}
+
     .case-study h1 {
       font-size: 40px;
     }
