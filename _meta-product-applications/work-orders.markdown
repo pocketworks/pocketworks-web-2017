@@ -6,4 +6,4 @@ application-type: ipad-application
 
 ### Work Orders
 
-For field service companies. Capture cusotmer information, perform an inspection, and fill out information about a job.
+For field service companies. Capture customer information, perform an inspection, and fill out information about a job.
