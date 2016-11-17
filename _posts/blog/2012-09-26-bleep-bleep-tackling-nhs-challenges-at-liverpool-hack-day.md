@@ -6,7 +6,7 @@ layout: blog
 meta-post-type: Blog-Type
 author: Tobin Harris
 description: Pocketworks - Mobile solutions for sales
-image: http://distilleryimage2.instagram.com/2b952b3805b611e2904b22000a1cdc2a_7.jpg
+image: http://openhealthcare.org.uk/assets/images/posts/nhshd.10.jpg
 ---
 
 Friday 21st September 2012, I attended the Liverpool NHS Hack Day to meet our friends at Integrella. We were presenting our progress from the last Hack Day. Integrella have kick-started a cloud-based project to help NHS staff overcome some thorny communications problems, and were looking for a mobile partner to take it to the pockets of clinicians.
@@ -73,4 +73,3 @@ Hack Days could help many other industries by using clever technologies created 
 * This could help increase more Police Officer recruitment!
 
 We feel that Hack Day's could be a massive drive going forward in our slipped economy!
-
