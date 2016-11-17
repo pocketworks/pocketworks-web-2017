@@ -21,9 +21,9 @@ The Quinn Partnership’s 360Scope is an intelligently designed range of focused
 ![Laptop image](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&url=https://pocketworks-website.s3.amazonaws.com/portfolio/quinn-thumb.jpg){: .img-responsive}
 </figure>
 
-- The only 360 survey designed for directors</li>
-- Created in 2012 and still being actively developed</li>
-- Automated reports have high visual standard</li>
+- The only 360 survey designed for directors
+- Created in 2012 and still being actively developed
+- Automated reports have high visual standard
 
 <figure markdown="1">
 ![Image of reports](https://pocketworks-website.s3.amazonaws.com/quinn-report.jpg){: .img-responsive}

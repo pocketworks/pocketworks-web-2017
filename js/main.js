@@ -1,4 +1,7 @@
 (function ($) {
+  $(function () {
+    $(window).trigger('scroll');
+  });
 
 	$(window).scroll(function(){
 		if ($(this).scrollTop() > 100) {
@@ -6,11 +9,12 @@
 			} else {
 				$('.scrollup').fadeOut();
 			}
-		});
-		$('.scrollup').click(function(){
-			$("html, body").animate({ scrollTop: 0 }, 1000);
-				return false;
-		});
+	});
+
+	$('.scrollup').click(function(){
+		$("html, body").animate({ scrollTop: 0 }, 1000);
+			return false;
+	});
 
 	// local scroll
 	jQuery('.navbar').localScroll({hash:true, offset: {top: 0},duration: 800, easing:'easeInOutExpo'});
@@ -72,7 +76,7 @@
 
 	} else {
 		var s = skrollr.init({
-			mobileDeceleration: 1,
+			mobileDeceleration: 0,
 			edgeStrategy: 'set',
 			forceHeight: true,
 			smoothScrolling: true,
@@ -107,8 +111,6 @@
 
         if (isMobile == false && ($('#case-study-1').length  ||isMobile == false &&  $('#case-study-1').length ||isMobile == false &&  $('#testimonials').length))
         {
-
-
             $(window).stellar({
                 responsive:true,
                 scrollProperty: 'scroll',
