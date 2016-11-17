@@ -1,6 +1,6 @@
 ---
 title: Tackling NHS challenges at Liverpool Hack Day
-date: 2012-09-26 00:00:00 Z
+date: 2012-09-26 01:00:00 +01:00
 page-title: Pocketworks - Mobile solutions for sales
 layout: blog
 meta-post-type: Blog-Type

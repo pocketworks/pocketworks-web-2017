@@ -1,6 +1,6 @@
 ---
 title: Modernising 360 reviews for board members
-date: 0000-12-31 23:58:45 -00:01
+date: 0000-12-31 23:58:30 -00:01
 permalink: "/case-study/modernising-360-review-for-board-members/"
 layout: case-study
 meta-post-type: Case Study
