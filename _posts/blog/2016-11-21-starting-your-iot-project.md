@@ -1,6 +1,6 @@
 ---
 title: Starting your IoT product
-date: 2016-11-21 01:00:00 +01:00
+date: 2016-11-21 00:00:00 +00:00
 page-title: Starting your IoT product
 layout: blog
 meta-post-type: Blog-Type
