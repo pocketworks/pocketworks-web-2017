@@ -124,6 +124,22 @@ consumers and manufacturers.
 
 <section class="section bg-white">
     <div class="container">
+      <div class="row">     
+        <div class="col-md-8 col-md-offset-2 align-center">
+          <h2>A rapid development process for IoT projects</h2>
+          <p>Working with our lean product design team will allow you to explore solution ideas efficiently and quickly. When it comes to development, you'll see frequent visible working software, managed using the industry standard Scrum methodology. </p>
+        </div>
+      </div>
+      <div class="row">     
+        <div class="col-md-12">
+          <img alt="Pocketworks IoT Process" src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1200&refresh=2592001&url=https://pocketworks-website.s3.amazonaws.com/process.jpg" class="img-responsive">
+        </div>          
+      </div>
+    </div>
+</section>
+
+<section class="section bg-white">
+    <div class="container">
     <div class="row">     
       <div class="col-md-12 align-center">
         <h2>Common Challenges</h2>
@@ -148,6 +164,8 @@ consumers and manufacturers.
 
     </div>
 </section>
+
+
 
 <section class="section" >
     <div class="container">
