@@ -1569,7 +1569,10 @@ Media queries
     h1 {
       font-size: 45px;
     }
-
+    h2 {
+      font-size: 25px;
+      line-height: 1.4em;
+    }
     .case-study h1 {
       font-size: 40px;
     }

@@ -16,6 +16,7 @@ layout: default
   {% endif %}
 {% endfor %}
 
+
 <section class="section" >
     <div class="container">
         <div class="row">
@@ -34,13 +35,105 @@ layout: default
     </div>
 </section>
 
-
-
-{% include grid-section.html view_all="true" top_padding="true" bg_white="true" %}
-
 {% include clients.html %}
 
 <section class="section" >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-4">
+        <p>
+        <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://pocketworks-website.s3.amazonaws.com/expertise.png" alt="Mobile Apps, Cloud, IoT, Data, Wearables" class="img-responsive" />
+      </p>
+      </div>
+      <div class="col-md-8 col-sm-8">
+        <h2>We are your guide to understanding how to apply digital technology to achieve your business objectives</h2>
+        <p>
+        We understand what it takes to take your ideas and turn them into a successful venture that will help you grow your business.
+        In just 4 years we've launched over a dozen successful products that have facilitated over £44M in revenue and cost savings to our clients.
+        Each of our products starts with an idea. We then follow a series of steps to safely grow that idea into a tangible, successful product.
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="coll-md-8 col-sm-8 col-md-offset-4">
+        <p>
+          
+          <a href="/contact" class="btn btn-border">Start your project</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-white" >
+    <div class="container">
+        <div class="row">
+
+
+        <div class="col-md-4">
+          <blockquote>Working with Sandal PLC, we took on the challenge of developing a mobile experience for Mi|Home - a startup venture selling SmartHome devices. We devised a user experience that empowered consumers to control their home in sophisticated ways without the complexity of traditional SmartHome apps.</blockquote>
+          <p>Tobin Harris<br/>Founder &amp; CTO, Pocketworks</p>
+        </div>
+
+        {% assign post = site.posts | where:"url", "/case-study/connecting-energenie-smarthome-to-nest-thermostats/"  | first %}
+        {% assign post.cols = 6 %}
+        {% include grid-card.html item=post %}
+
+        {% assign post = site.posts | where:"url", "/case-study/turning-lights-on-across-the-uk/"  | first %}
+        {% assign post.cols = 5 %}
+        {% include grid-card.html item=post %}
+
+
+
+        </div>
+      </div>
+</section>
+
+<section class="section">
+    <div class="container">
+      <div class="row pad-bot20">
+        <div class="col-md-8 col-md-offset-2 align-center">
+          <h2>How we help you succeed in a mobile world</h2>
+        </div>
+      </div>
+        <div class="row">
+
+
+          <div class="col-md-3 align-center">
+            <h3>Appraise <br/><small>your idea</small></h3>
+            <p>The first step to developing a great product is to appraise the idea to reveal any potential issues and establish the investment required. This forms the basis of a successful outcome. </p>
+
+          </div>
+          <div class="col-md-3 align-center">
+            <h3>Discover <br/><small>your best options</small></h3>
+            <p>The most successful products are achieved through research &amp; exploration. Using proven techniques, you're ideas and goals can evolve into a confident solution design. </p>
+          </div>
+          <div class="col-md-3 align-center">
+            <h3>Deliver <br/><small>your product to market</small></h3>
+            <p>To get to market quickly it's important to identify the features that bring most value to your audience and deliver them quickly. You'll have a modern solution incorporating technologies such as mobile, cloud and IoT. </p>
+          </div>
+          <div class="col-md-3 align-center">
+            <h3>Learn<br/><small>from your audience</small></h3>
+            <p>After launching your product it's time to learn from your customers and then feed those insights back into your product. Amongst other things, analytics and user testing will fuel the learning process.</p>
+          </div>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="coll-md-12 align-center">
+          <p>
+            <br/>
+            <a href="/contact" class="btn btn-border">Start your project</a>
+          </p>
+        </div>
+      </div>
+</section>
+
+<!-- include grid-section.html view_all="true" top_padding="true" bg_white="true" -->
+
+
+
+<section class="section bg-white" >
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
@@ -53,7 +146,7 @@ layout: default
 </section>
 
 
-<section class="section bg-black pad-top0" style="height: 500px; background-image: url(https://pocketworks-website.s3.amazonaws.com/{{ page.advice.bg-img }}); background-position: 0%; background-size: 100%; background-repeat: no-repeat">
+<section class="section bg-black pad-top0 hidden" style="height: 500px; background-image: url(https://pocketworks-website.s3.amazonaws.com/{{ page.advice.bg-img }}); background-position: 0%; background-size: 100%; background-repeat: no-repeat">
   <div class="container">
     <div class="row">
       <div class='col-xs-12 col-sm-6 col-sm-offset-6 card' style="min-height:300px">
@@ -76,7 +169,7 @@ layout: default
 
 
 <!-- pocket insights section -->
-<section id="" class="section clearfix bg-white">
+<section id="" class="section clearfix">
 <div class="container">
   <div class="row mar-bot40">
 

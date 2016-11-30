@@ -37,14 +37,31 @@ layout: homepage
 ---
 
 <div class="col-md-8 col-md-offset-2">
+  <h2>Turn your mobile ideas into products that engage customers, reduce costs and drive business growth </h2>
+  <p>
+
+  Whether you&rsquo;re an ambitious startup or established industry leader, your customers expect you to enhance their day to day lives by providing simple experiences using sophisticated technologies. We offer a series of services to get ideas from prototypes to production, and everything in-between.  
+  </p>
+  <p>
+    <br/>
+    <a href="/contact" class="btn btn-border">Start your project</a>
+  </p>
+</div>
+
+<div class="col-md-8 col-md-offset-2 hidden">
   <h2>Mobile success means launching apps that truly engage customers whilst seizing opportunities for business growth.</h2>
   <p>
-  Whether you&rsquo;re an ambitious startup or established industry leader, we&rsquo;re here to turn vision into results. Our creative team deeply understand how to launch mobile products that work. As experienced advisors and doers, we draw on experience beyond mobile; covering the cloud, data and web.
-  <br/><a href="/our_work">See how we&rsquo;re making mobile success stories every day</a>.
+  Whether you&rsquo;re an ambitious startup or established industry leader, we&rsquo;re here to turn vision into results. Our creative team deeply understand how to launch mobile products that work. As experienced advisors and doers, we draw on experience beyond mobile; covering the cloud, data and web.  
+  </p>
+  <p>
+    <br/>
+    <a href="/contact" class="btn btn-border">Start your project</a>
   </p>
 </div>
 
 <!--more-->
+
+
 
 <div class="col-md-3" markdown="1">
 ![Report: What drives app downloads?](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=264&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/PocketInsightsAppAnalytics.jpg){: .img-responsive}

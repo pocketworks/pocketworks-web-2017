@@ -9,7 +9,7 @@ description: Pocketworks offer advice, design and development around the impleme
 tagline: Helping Energenie enter the UK smarthome hardware market
 client: Energenie
 grid-title: Helping Energenie enter the SmartHome market
-image: energenie-mi-home-booth-2.jpg
+image: portfolio/energenie-thumb.jpg
 cols: 4
 logo-image: energenie-logo-40px.png
 hero-image: energenie-mihome-android-scene.jpg
