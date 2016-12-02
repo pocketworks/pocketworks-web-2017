@@ -506,6 +506,10 @@ section.bg-orange{
     color: white;
 }
 
+.color-orange{
+  color: #E25827;
+}
+
 section.bg-gray{
   background: rgb(234,234,234); /* Old browsers */
   background: -moz-linear-gradient(top,  rgba(234,234,234,1) 0%, rgba(255,255,255,1) 29%); /* FF3.6+ */
