@@ -502,7 +502,8 @@ section.featured {
 }
 
 section.bg-orange{
-    background-color: #E25827;
+    /*background-color: #E25827;*/
+    background-color: #444;
     color: white;
 }
 
