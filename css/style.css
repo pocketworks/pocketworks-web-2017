@@ -151,6 +151,11 @@ a:hover {
 	color: #fff;
 }
 
+.color-white-ish {
+	color: #fff;
+  opacity: 0.8;
+}
+
 span.color-black{
     color: #000000;
 }
@@ -544,6 +549,10 @@ section.featured.bg-white{
 
 section.featured.bg-orange a{
     color: white;
+}
+
+section.featured li {
+  padding-top: 0.8em;
 }
 
 .hero a{
