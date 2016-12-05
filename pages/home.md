@@ -36,8 +36,8 @@ advice:
 layout: homepage
 ---
 
-<div class="col-md-8 col-md-offset-2">
-  <h2>Create a sustainable plan to transform your mobile ideas into a product that resonates with audiences and drives business growth </h2>
+<div class="col-md-10 col-md-offset-1">
+  <h2>Turn your mobile ideas into a successful product that engages audiences and drives business growth </h2>
   <p>
   Whether you&rsquo;re an ambitious startup or established industry leader, your customers expect you to enhance their day to day lives by providing simple experiences using sophisticated technologies. We offer a series of services to get ideas from prototypes to production, and everything in-between.  
   </p>
