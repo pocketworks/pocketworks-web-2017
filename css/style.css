@@ -565,6 +565,11 @@ section.featured li {
    padding: 0px 6px 0px 6px;
 }
 
+section.orange-home-hero h1{
+  font-size: 46px;
+  line-height: 1.4em;
+}
+
 section.featured.bg-yellow{
     background-color: #D0C318;
     color: white;
@@ -1625,6 +1630,10 @@ Media queries
 
     section.featured h1.slogan{
         font-size: 40px;
+    }
+
+    section.orange-home-hero h1{
+      font-size: 26px;
     }
 
     .navbar .navbar-header {
