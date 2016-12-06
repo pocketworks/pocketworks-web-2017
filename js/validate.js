@@ -54,6 +54,7 @@ jQuery(document).ready(function($) {
 
 			var i = $(this); // current input
 			var rule = i.attr('data-rule');
+			var value = i.val().trim();
 
 			if( rule !== undefined ){
 			var ierror=false; // error flag for current input
