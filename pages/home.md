@@ -2,14 +2,17 @@
 title: Homepage
 permalink: "/"
 position: 0
-page-title: Pocketworks - UK App Developers
-description: Planning, design, development and management of mobile centric products.  We
-  help businesses attract customers and reduce costs. Working with iPhone, Android,   iPad,
-  Wear, Apple Watch, iOS and the Cloud. We're experts at creating business apps  for
-  sales enablement, logistics, and workforce productivity. Based in Leeds City Center,
+page-title: Pocketworks - App Developers UK
+description: Pocketworks is a mobile app development UK company. If you need to transform
+  your mobile idea into a viable product that involves mobile technology, we can help.
+  Our advice can help you at any stage of your mobile project; We offer up-front consultancy
+  and planning, app design and development, long-term management and app audit and
+  reviews.  We understand technology, working with iPhone,  Android,  iPad, Apple
+  Watch, iOS, Ruby on Rails, Elixir, Databases, IoT and the Cloud. We're experts at
+  creating business apps that require 24/7/365 uptime. Find us in Leeds City Center,
   UK.
-keywords: uk,leeds,mobile,app,developers,ios,iphone,ipad,android,prototyping,sales
-  enablement,sales apps,wearables
+keywords: app, developers, uk, leeds, yorkshire, mobile, ios, iphone, ipad, android,
+  prototyping, design, sales enablement, sales apps, iot
 hero-img: Logo512.png
 grid-items:
 - url: "/case-study/connecting-energenie-smarthome-to-nest-thermostats/"
