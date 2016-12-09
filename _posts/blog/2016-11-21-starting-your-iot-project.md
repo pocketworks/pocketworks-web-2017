@@ -15,7 +15,7 @@ If your company has a great idea for a product involving IoT, this will help you
 
 ## A brave new world
 
-Creating an IoT product may be a new thing for your company. You might be a manufacturer who builds physical products and is yet to take a software and IoT-based product to market. 
+Creating an IoT product may be a new thing for your company. You might be a manufacturer who builds physical products and who is yet to take a software and IoT-based product to market. 
 
 You probably have some good ideas on how you can add intelligent hardware and software to your existing offering, and a track record of delivering innovative products in your industry. However, IoT product development may require you to employ new skills to get the hardware and software components designed and assembled.
 
