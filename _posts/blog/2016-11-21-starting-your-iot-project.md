@@ -3,9 +3,8 @@ title: Starting your IoT product
 date: 2016-11-21 00:00:00 +00:00
 description: How you can start an IoT product
 image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/lights.jpg
-meta-post-type: Blog-Type
-client: Advice for Newcomers
 meta-post-type: Advice
+client: Advice for Newcomers
 page-title: Considerations for your IoT product
 author: Tobin Harris
 layout: blog
