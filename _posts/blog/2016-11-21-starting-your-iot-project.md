@@ -4,7 +4,9 @@ date: 2016-11-21 00:00:00 +00:00
 description: How you can start an IoT product
 image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/lights.jpg
 meta-post-type: Blog-Type
-page-title: Starting your IoT product
+client: Advice for Newcomers
+meta-post-type: Advice
+page-title: Considerations for your IoT product
 author: Tobin Harris
 layout: blog
 ---
@@ -15,7 +17,7 @@ If your company has a great idea for a product involving IoT, this will help you
 
 ## A brave new world
 
-Creating an IoT product may be a new thing for your company. You might be a manufacturer who builds physical products and who is yet to take a software and IoT-based product to market. 
+Creating an IoT product may be a new thing for your company. You might be a manufacturer who builds physical products and who is yet to take a software and IoT-based product to market.
 
 You probably have some good ideas on how you can add intelligent hardware and software to your existing offering, and a track record of delivering innovative products in your industry. However, IoT product development may require you to employ new skills to get the hardware and software components designed and assembled.
 
@@ -70,6 +72,16 @@ Once you've installed hundreds or thousands of your smart hardware devices on pr
 
 For many IoT products, customers will need to interact with the solution whilst away from their laptop or desktop computer. So, you'll want to have a mobile offering, be it a native app or progressive mobile site. The mobile app could be designed to receive alerts, or it could be there to assist with setting up the devices. In some cases, you might not have a cloud portal and instead, do everything through the mobile app.
 
+### Certification (Important!)
+
+If you want to use your IoT hardware in a commercial or consumer setting in the UK, all your hardware components will need to be certified. For example, say you have a Rasberry Pi and attach a GSM modem to it, you need to make sure both of these components are certified (the Pi is).
+
+Before going to market you'll need to put your _combined_ components into certification as a whole. This is why it's so important to ensure all components are certified. If one of them is not certified, then you're combined solution won't make it through certification.
+
+When starting a new project, it's important to pay great attention to this otherwise your project schedule will be at risk as you get bogged down with finding new components or waiting for your component manufacturers to sort things out.
+
+
+
 ## Prototyping to success
 
 Pulling all these skills and components together is going to be necessary at some point, but there are also options for the short term too.
@@ -80,4 +92,4 @@ Pulling all these skills and components together is going to be necessary at som
 
 ## How Pocketworks can help
 
-We're experts at creating software solutions that underpin IoT projects. Our strengths are in mobile and cloud development, and prototyping IoT solutions. We help companies explore their ideas to take IoT products to market. 
+We're experts at creating software solutions that underpin IoT projects. Our strengths are in mobile and cloud development, and prototyping IoT solutions. We help companies explore their ideas to take IoT products to market.

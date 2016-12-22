@@ -40,7 +40,7 @@ hero-img: warehouse-dim.jpg
         {% assign post.cols = 6 %}
         {% include grid-card.html item=post %}
 
-        {% assign post = site.posts | where:"url", "/case-study/turning-lights-on-across-the-uk/"  | first %}
+        {% assign post = site.posts | where:"url", "/blog/2016-11-21-starting-your-iot-project/"  | first %}
         {% assign post.cols = 5 %}
         {% include grid-card.html item=post %}  
 

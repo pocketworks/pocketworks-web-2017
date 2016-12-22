@@ -10,7 +10,11 @@
     </div>
 
     <div class="row top">
+      {%if include.item.image contains "opensocial" %}
+      <a href="{{ include.item.url prepend: site.baseurl }}"><img src="{{ include.item.image }}" class="img-responsive" alt="case study picture" /></a>
+      {% else %}
       <a href="{{ include.item.url prepend: site.baseurl }}"><img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=400&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/{{ include.item.image }}" class="img-responsive" alt="case study picture" /></a>
+      {%endif%}
     </div>
     <div class="row content">
       <div class="subtitle">

@@ -8,4 +8,4 @@ image: round-hardware-control-apps.jpg
 
 Easy-to-use apps for controlling hardware for home automation, medical devices, heating and IoT
 
-[Read More](/medicaldevices-and-iot-apps/){: .btn .btn-lg .btn-border }
+[Read More](/iot/){: .btn .btn-lg .btn-border }
