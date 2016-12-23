@@ -21,7 +21,9 @@
         <h3>
           {% if include.item.client %}{{ include.item.client }}{% else %} Client Goes Here {% endif %}
         </h3>
+        {%if include.item.meta-post-type != "Blog-Type" %}
         <span>{{ include.item.meta-post-type }}</span>
+        {% endif %}
 
       </div>
       <p>
