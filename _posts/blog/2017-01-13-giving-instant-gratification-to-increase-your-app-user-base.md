@@ -1,0 +1,77 @@
+---
+title: Giving instant gratification to increase your user-base
+date: 2016-11-21 00:00:00 +00:00
+description: If you’ve got an idea for an app, you might want to consider how quickly it gives value back to your end user. By that we mean, do people get something out of it quickly? An app should give some value within seconds or minutes of use, not hours or days
+image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/jogging.jpg
+meta-post-type: Blog-Type
+client: Advice
+page-title: Giving instant gratification to increase your user-base
+author: Tobin Harris
+layout: blog
+---
+
+If you’ve got an idea for an app, you might want to consider how quickly it gives value back to your end user. By that we mean, do people get something out of it quickly? An app should give some value within seconds or minutes of use, not hours or days.
+
+<!--more-->
+
+## Giving value early leads to more users
+The quicker you give some value, the more likely users are to remain engaged. The more engaged they are, the more likely they’ll return to your app. In turn, fewer users will give up on your app, and so you’ll see a faster-growing user base because existing users stick around. Financially, you’ll get more bang for each buck spent advertising. In other words, your acquisition costs will be less.
+
+> Note: for those making enterprise apps, you’re probably more interested in making staff more efficient and have a captive audience. In this case, the higher engagement will mean more usage, which in turn will give more efficiency savings. Similarly, you’ll have to spend less time encouraging teams to adopt the app, because they realise the benefits more quickly and don’t have to be reminded.
+
+As a taster, here are some examples of apps that give value in seconds
+
+* Instagram -  As soon as you apply a filter to your first photo, you’ve got a nicer looking photo.
+* RunKeeper - As soon as you start your run, you know your pace and distance covered
+* Spotify - You can find and listen to almost any song in the world as soon as you’ve opened the app
+* Energenie - You can your living room lights on with the app, and it happens instantly
+
+With these apps, users quickly experience the value of the app.
+
+## Should I be worried?
+It may sound dramatic, but if your app idea doesn’t give some instant gratification, you should consider it a big potential warning sign. It might be that your app isn’t geared up for instant gratification. It might need people to wait a little time before they get something from it. Or it may require them to invest energy in order to get something back out.  
+
+## Ways to inject instant gratification and increase engagement
+If your app is more of a “slow burn” when it comes to giving value, it’s worth seeing if you can find a way to inject a little instant gratification. This will help keep users engaged and encourage them to come back repeatedly.
+
+Here are some apps that give instant gratification, even though the real value is delayed
+
+* Uber - As soon as you book a taxi, you can immediately see it coming to pick you up.
+* Dominos Pizza - Building and ordering a pizza is very easy and fast
+* DropBox - Lets you preview files even before their downloaded to your phone
+
+Some of these techniques might seem obvious, but I’d bet 50p that the teams designing these apps made conscious decisions to invest in app features that keep users engaged and happy whilst the true value was “in the post”.
+
+## Is this really important?
+User retention in apps is hugely important. Acquiring users isn't cheap, and losing them is just wasting that money, and significantly lowering their lifetime value to your business.
+
+If you’re looking for inspiration, here are some ways you could consider giving instant gratification.
+
+### Invent new forms of value
+Sometimes it’s possible to give secondary forms of value to keep people engaged. This is what Uber, Dominos and DropBox do when they’re showing you a car on the map, or a preview of a document.  
+
+### Re-engage people outside the app
+Sometimes you can’t avoid making people wait. For example, it would be silly for Uber to try and keep me in the app whilst the cab is on its way. So instead they send me emails and push notifications to draw me back in. RunKeeper sends weekly reports to remind me of my goals and progress. If your users must wait, consider such approaches to out-of-app engagement.
+
+### Keep users motivated
+Encourage users not to give up whilst they wait to receive value from your app. You could show a progress indicator so they know they are getting there. Or use gamification to give them “points” that reward positive behaviours.
+
+### Keep users entertained
+The worst case scenario is that you simply need to entertain people whilst they’re waiting. You could consider giving them some hints and tips so they’re learning whilst they’re waiting. Some apps give people a quick game to play whilst people wait (not a fan of this).
+
+In summary, it’s worth considering how to give some instant gratification. If it doesn’t suit your product, consider finding ways to show progress or delight the user to keep them entertained and engaged.
+
+## Ideas for your industry
+
+### Internet of Things
+If you’re creating smart hardware solutions with sensors and gateways, it’s possible that the data you collect is where the value is. Sometimes this value is realised over a long time. For example, a smart home alarm system that might only be tripped once a year! In this case, consider using out-of-app engagement to remind users of the value they’re getting from your app.
+
+### Transactional Apps
+If you’re building an app to facilitate a transaction, such as a taxi booking app, consider finding intermediate forms of value around the transaction. This might be showing progress, or allowing users to get the job done more quickly.
+
+### Enterprise Apps
+If you’re building an app to increase staff efficiency, consider finding other forms of value. For example, consider an app that helps the sales team present current and consistent sales information to clients. This could also give sales staff an insight into new and popular materials for their division, so it becomes and educational tool that helps them do their job better.
+
+## Talk to us about engagement and retention
+
+Pocketworks is here to helps it’s customers achieve long term successful with modern software technologies. This includes mobile apps, cloud solutions, big data and chat bots. Engagement and retention are crucial to your app’s success. We’re helping startups and established businesses take ideas to market in many sectors including IoT, pharmaceuticals, delivery and manufacturing.
