@@ -1,6 +1,6 @@
 ---
 title: Giving instant gratification to increase your user-base
-date: 2016-11-21 00:00:00 +00:00
+date: 2017-01-13 00:00:00 +00:00
 description: If you’ve got an idea for an app, you might want to consider how quickly it gives value back to your end user. By that we mean, do people get something out of it quickly? An app should give some value within seconds or minutes of use, not hours or days
 image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/jogging.jpg
 meta-post-type: Blog-Type
