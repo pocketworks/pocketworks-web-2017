@@ -22,6 +22,7 @@ The quicker your app gives some value, the more likely your users are to remain 
 
 > Note: for those making enterprise apps for company employees, you’re probably more interested in helping them be more efficient. In this case, giving value to them quickly will translate to people using the app more, which in turn will help you get the efficiency savings you set out to achieve. At the same time, you’ll spend less time having to "encourage" teams to adopt the app, which is a common management challenge that can also lead to hindered progress.
 
+
 ## Four apps that give instant value
 
 As an example, here are some examples of apps that give value in seconds
@@ -32,6 +33,8 @@ As an example, here are some examples of apps that give value in seconds
 * Energenie - You can your living room lights on with the app, and it happens instantly
 
 With these apps, users quickly experience the value of the app.
+
+![Showing perceived value of app over time for Instagram](https://pocketworks-website.s3.amazonaws.com/value_over_time.jpg){: .img-responsive}
 
 ## What if my app has delayed value
 
@@ -72,6 +75,8 @@ In summary, it’s worth considering how to give some instant gratification. If 
 ## Saving money by retaining users
 
 User retention in apps is hugely important. Acquiring users can be expensive, so losing them is wasting that investment. And, there's more to it than acquisition costs. You're also significantly lowering the lifetime value of users, which means you're missing out on increased revenues or efficiency savings.
+
+![Virtuous cycle between app value, engagement and retention](https://pocketworks-website.s3.amazonaws.com/engagement_cycle.jpg){: .img-responsive}
 
 ## Ideas for your industry
 
