@@ -33,14 +33,14 @@ As an example, here are some examples of apps that give value in seconds
 
 With these apps, users quickly experience the value of the app.
 
-## What if my app is naturally "slow return"
+## What if my app has delayed value
 
 It may sound dramatic, but if your app idea doesn’t give some instant gratification, you should consider it a potential warning sign. Of course, not all apps are geared up for instant gratification. Instead, your app might need people to wait a little time before they get something from it. Uber and Deliveroo have this problem, and there are ways around it.
 
 
 If your app is more of a “slow burn” when it comes to giving value to users, it’s worth exploring how to inject a little instant gratification in there. This will help keep users engaged and encourage them to come back repeatedly.
 
-## Ways to inject instant gratification and increase engagement
+## Three apps that should have delayed value
 
 Here are some apps that give instant gratification, even though the real value is delayed
 
@@ -49,6 +49,8 @@ Here are some apps that give instant gratification, even though the real value i
 * DropBox - Lets you preview files even before their downloaded to your phone
 
 Some of these techniques might seem obvious, but I’d bet 50p that the teams designing these apps made conscious decisions to invest in app features that keep users engaged and happy whilst the true value was “in the post”.
+
+## Ways to inject instant gratification and increase engagement
 
 If you’re looking for inspiration, here are some ways you could consider giving instant gratification.
 
