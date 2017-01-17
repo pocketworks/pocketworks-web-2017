@@ -22,6 +22,8 @@ The quicker your app gives some value, the more likely your users are to remain 
 
 > Note: for those making enterprise apps for company employees, you’re probably more interested in helping them be more efficient. In this case, giving value to them quickly will translate to people using the app more, which in turn will help you get the efficiency savings you set out to achieve. At the same time, you’ll spend less time having to "encourage" teams to adopt the app, which is a common management challenge that can also lead to hindered progress.
 
+## Four apps that give instant value
+
 As an example, here are some examples of apps that give value in seconds
 
 * Instagram -  As soon as you apply a filter to your first photo, you’ve got a nicer looking photo.
@@ -31,11 +33,14 @@ As an example, here are some examples of apps that give value in seconds
 
 With these apps, users quickly experience the value of the app.
 
-## Should I be worried?
+## What if my app is naturally "slow return"
+
 It may sound dramatic, but if your app idea doesn’t give some instant gratification, you should consider it a potential warning sign. Of course, not all apps are geared up for instant gratification. Instead, your app might need people to wait a little time before they get something from it. Uber and Deliveroo have this problem, and there are ways around it.
 
-## Ways to inject instant gratification and increase engagement
+
 If your app is more of a “slow burn” when it comes to giving value to users, it’s worth exploring how to inject a little instant gratification in there. This will help keep users engaged and encourage them to come back repeatedly.
+
+## Ways to inject instant gratification and increase engagement
 
 Here are some apps that give instant gratification, even though the real value is delayed
 
@@ -45,12 +50,10 @@ Here are some apps that give instant gratification, even though the real value i
 
 Some of these techniques might seem obvious, but I’d bet 50p that the teams designing these apps made conscious decisions to invest in app features that keep users engaged and happy whilst the true value was “in the post”.
 
-## Is this really important?
-User retention in apps is hugely important. Acquiring users can be expensive, so losing them is wasting that investment. And, there's more to it than acquisition costs. You're also significantly lowering the lifetime value of users, which means you're missing out on increased revenues or efficiency savings.
-
 If you’re looking for inspiration, here are some ways you could consider giving instant gratification.
 
 ### Invent new forms of value
+
 Sometimes it’s possible to give secondary forms of value to keep people engaged. This is what Uber, Dominos and DropBox do when they’re showing you a car on the map, or a preview of a document.  
 
 ### Re-engage people outside the app
@@ -60,14 +63,19 @@ Sometimes you can’t avoid making people wait. For example, it would be silly f
 Encourage users not to give up whilst they wait to receive value from your app. You could show a progress indicator so they know they are getting there. Or use gamification to give them “points” that reward positive behaviours.
 
 ### Keep users entertained
-The worst case scenario is that you simply need to entertain people whilst they’re waiting. You could consider giving them some hints and tips so they’re learning whilst they’re waiting. Some apps give people a quick game to play whilst people wait (not a fan of this).
+The worst case scenario is that you simply need to entertain people whilst they’re waiting. You could consider giving them some hints and tips so they’re learning whilst they’re waiting. Some apps give people a quick game to play whilst people wait (not a fan of this). You can also offer more _moments of delight_ where the app surprises the user with something interesting and fun.
 
 In summary, it’s worth considering how to give some instant gratification. If it doesn’t suit your product, consider finding ways to show progress or delight the user to keep them entertained and engaged.
+
+## Saving money by retaining users
+
+User retention in apps is hugely important. Acquiring users can be expensive, so losing them is wasting that investment. And, there's more to it than acquisition costs. You're also significantly lowering the lifetime value of users, which means you're missing out on increased revenues or efficiency savings.
 
 ## Ideas for your industry
 
 ### Internet of Things
-If you’re creating smart hardware solutions with sensors and gateways, it’s possible that the data you collect is where the value is. Sometimes this value is realised over a long time. For example, a smart home alarm system that might only be tripped once a year! In this case, consider using out-of-app engagement to remind users of the value they’re getting from your app.
+If you’re creating smart hardware solutions with sensors and gateways, it’s possible that the data you collect is where the value is; giving people data to better manage something. Be it their blood sugar levels, their warehouse or their heating etc. For applications like these, sometimes the value is realised over hours, days or months. Not seconds or minutes. For example, a smart-meter that takes an hour to give any useful data about your energy consumption. If this sounds like your app, consider using out-of-app engagement to remind users of the value they’re getting from your app. In the case of a smart energy app, it could notify the user saying "We've collected an hours worth of data, tap to see how efficient your home is."
+
 
 ### Transactional Apps
 If you’re building an app to facilitate a transaction, such as a taxi booking app, consider finding intermediate forms of value around the transaction. This might be showing progress, or allowing users to get the job done more quickly.
@@ -77,4 +85,4 @@ If you’re building an app to increase staff efficiency, consider finding other
 
 ## Talk to us about engagement and retention
 
-Pocketworks exists to help businesses achieve long term successful with modern software technologies. This includes mobile apps, cloud, big data and chat bots. Engagement and retention are crucial to your app’s success. We’re helping startups and established businesses take ideas to market in many sectors including IoT, pharmaceuticals, delivery and manufacturing.
+Pocketworks exists to help businesses build modern digital solutions that actually work; which bring long term success and help them achieve business growth. Our expertise spans mobile apps, cloud solutions, IoT, enterprise apps, big data and chat bots. Engagement and retention are one crucial component of your app’s success. Each day, we’re helping startups and established businesses take ideas to market safely. We help businesses solve many types of problem relating to manufacturing, enterprise efficiency, mobile booking, delivery and retail.
