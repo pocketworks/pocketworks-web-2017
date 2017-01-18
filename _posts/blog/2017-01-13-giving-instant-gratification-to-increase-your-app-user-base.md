@@ -30,9 +30,9 @@ As an example, here are some examples of apps that give value in seconds
 * Instagram -  As soon as you apply a filter to your first photo, you’ve got a nicer looking photo.
 * RunKeeper - As soon as you start your run, you know your pace and distance covered
 * Spotify - You can find and listen to almost any song in the world as soon as you’ve opened the app
-* Energenie - You can your living room lights on with the app, and it happens instantly
+* Energenie - You can turn your living room lights on with the app, and it happens instantly
 
-With these apps, users quickly experience the value of the app.
+As this sketch shows, for apps such as Instagram there are several places where value is felt by the user in a short timeframe.
 
 ![Showing perceived value of app over time for Instagram](https://pocketworks-website.s3.amazonaws.com/value_over_time.jpg){: .img-responsive}
 
@@ -49,7 +49,7 @@ Here are some apps that give instant gratification, even though the real value i
 
 * Uber - As soon as you book a taxi, you can immediately see it coming to pick you up.
 * Dominos Pizza - Building and ordering a pizza is very easy and fast
-* DropBox - Lets you preview files even before their downloaded to your phone
+* DropBox - Lets you preview files even before they are downloaded to your phone
 
 Some of these techniques might seem obvious, but I’d bet 50p that the teams designing these apps made conscious decisions to invest in app features that keep users engaged and happy whilst the true value was “in the post”.
 
@@ -81,7 +81,7 @@ User retention in apps is hugely important. Acquiring users can be expensive, so
 ## Ideas for your industry
 
 ### Internet of Things
-If you’re creating smart hardware solutions with sensors and gateways, it’s possible that the data you collect is where the value is; giving people data to better manage something. Be it their blood sugar levels, their warehouse or their heating etc. For applications like these, sometimes the value is realised over hours, days or months. Not seconds or minutes. For example, a smart-meter that takes an hour to give any useful data about your energy consumption. If this sounds like your app, consider using out-of-app engagement to remind users of the value they’re getting from your app. In the case of a smart energy app, it could notify the user saying "We've collected an hours worth of data, tap to see how efficient your home is."
+If you’re creating smart hardware solutions with sensors and gateways, it’s possible that the data you collect is where the value is; giving people data to better manage something. Be it their blood sugar levels, their warehouse safety or their heating efficiency. For applications like these, sometimes the value is realised over hours, days or months. Not seconds or minutes. For example, a smart-meter that takes an hour to give any useful data about your energy consumption. If this sounds like your app, consider using out-of-app engagement to remind users of the value they’re getting from your app. In the case of a smart energy app, it could notify the user saying "We've collected an hours worth of data, tap to see how efficient your home is."
 
 
 ### Transactional Apps
