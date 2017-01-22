@@ -40,13 +40,16 @@ layout: homepage
 ---
 
 <div class="col-md-10 col-md-offset-1">
-  <h2>Turn your mobile ideas into a successful product that engages audiences and drives business growth </h2>
+  <h2>Take your mobile ideas to market</h2>
   <p>
-  Whether you&rsquo;re an ambitious startup or established industry leader, your customers expect you to enhance their day to day lives by providing simple experiences using sophisticated technologies. We offer a series of services to get ideas from prototypes to production, and everything in-between.  
+  Working with ambitious startups and established industry leaders, we help companies transform their ideas into successful digital products. Our services enable you take ideas from prototype to production, and everything in-between.
   </p>
   <p>
     <br/>
-    <a href="/contact" class="btn btn-border">Start your project</a>
+    <a href="/apps-for-startups" class="btn btn-border">Services for Startups</a>&nbsp;
+    <a href="/enterprise-mobile-app-development" class="btn btn-border">Services for Industry Leaders</a>&nbsp;
+    <a href="/iot" class="btn btn-border">Services for IoT Ventures</a>
+
   </p>
 </div>
 
