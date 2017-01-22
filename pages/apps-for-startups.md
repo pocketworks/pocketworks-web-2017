@@ -163,7 +163,7 @@ consumers and manufacturers.
         create, operate, and service smart, connected products.        
             </p>
             <p>
-            <a href="/contact/" class="btn btn-border btn-large">Start your IoT project</a>
+            <a href="/contact/" class="btn btn-border btn-large">Start your project</a>
             </p>
           </div>                       
         </div>

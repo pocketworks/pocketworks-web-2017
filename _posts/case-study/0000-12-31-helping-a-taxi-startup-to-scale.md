@@ -1,6 +1,6 @@
 ---
 title: Helping a taxi startup to scale
-date: 0000-12-31 23:58:45 -00:01
+date: 0000-12-31 23:58:30 -00:01
 permalink: "/case-study/helping-a-taxi-startup-to-scale/"
 layout: case-study
 meta-post-type: Case Study
