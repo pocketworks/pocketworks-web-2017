@@ -1,6 +1,6 @@
 ---
 title: A simpler way to sell in healthcare
-date: 0000-12-31 23:58:30 -00:01
+date: 0000-12-31 23:58:15 -00:01
 permalink: "/case-study/a-simpler-way-to-sell-in-healthcare/"
 layout: case-study
 meta-post-type: Case Study
