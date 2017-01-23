@@ -12,13 +12,13 @@ grid-title: Increasing sales team efficiency with iPads
 image: fresenius-medical-care-5008s.jpg
 logo-image: fresenius-logo-40px.png
 case-study-challenge: Work with management to define concept to modernise the sales
-  team and increase efficiency. Deliver initla concept within 12 weeks. Evolve into
+  team and increase efficiency. Deliver initial concept within 12 weeks. Evolve into
   solution over 2 years.
-case-study-outcome: Pocketworks tested several ideas to help arrive at a solution
-  that satisfied project stakeholders, including sales reps, product managers and
-  marketing. Solution was showcased at the Fresenius annual sales conference. Initial
-  solution led to cost reductions and increased legal compliance. Now used by worldwide
-  team in over 12 countries. Comprised of an enterprise sales content management platform
+case-study-outcome: Pocketworks tested several concepts to find a solution
+  that satisfied project stakeholders; sales reps, product managers and
+  marketing. The solution was showcased at the Fresenius annual sales conference. The initial
+  solution led to cost reductions and increased legal compliance. The sales app has been adopted by
+  teams in over 12 countries. Comprised of an enterprise sales content management platform
   with accompanying iPad, iPhone and Laptop sales apps.
 ---
 
