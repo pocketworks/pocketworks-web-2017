@@ -126,7 +126,7 @@ hero-img: warehouse-dim.jpg
             Define the value of collected data. Ehnance analytics capabilities. Safety of cusotmers information. Create better business apps.
             </p>
             <p>
-            <a href="/contact/" class="btn btn-border btn-large">Start your IoT project</a>
+            <a href="/contact/" class="btn btn-border btn-large">Contact us to start your project</a>
             </p>
           </div>
           <div class="col-md-6">
