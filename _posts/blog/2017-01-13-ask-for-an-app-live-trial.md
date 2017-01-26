@@ -2,7 +2,7 @@
 title: Don’t ask for an app, ask for a live trial
 date: 2017-01-26 00:00:00 +00:00
 description: Don’t ask for an app, ask for a live trial
-image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/jogging.jpg
+image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/rocket_launch.jpg
 meta-post-type: Blog-Type
 client: Advice
 page-title: Don’t ask for an app, ask for a live trial
@@ -12,7 +12,9 @@ layout: blog
 
 Do you realise that you can save over 30%-60% of your app investment by NOT asking your app development company to take your app to market? This may sound stupid, so please bear with me…
 
-<!-- more -->
+<!--more-->
+
+## Getting into learning mode
 
 Let’s say you have a vision for an app that will revolutionise an industry. Or perhaps it will significantly reduce your operating costs. You’re going to want to take that to market, so it’s likely you’ll start phoning app developers, meet with them to see if you get along, and find out how much they'll charge to take your idea to market.
 
@@ -24,7 +26,7 @@ A different approach involves trying out ideas before you pour all your time, mo
 
 > Those ideas need testing so you can learn. And the whole team needs to be in that frame of mind.
 
-## Problems with going “all-out” with your app launch
+## Problems with going all-out
 
 If you ask a company to plan to take the product to market, you’re not creating an opportunity for you and your chosen creative team to learn.
 
@@ -38,7 +40,7 @@ For example, one thing that’s affected is how the team estimate the budget nee
 
 In short, nobody wants to start their new venture with an incorrect budget, so consider putting some learning milestones in there. A good first milestone is a live trial.
 
-## Why modern teams do things differently
+## Why modern teams do it this way
 
 Companies such as Google, Microsoft and pretty much any startup take a different approach. The avoid big-bang launches and instead take small, fast, relatively inexpensive steps to test their ideas and refine their product strategy. This is similar to the scientific method. It works for a number of reasons, to name a few:
 
@@ -77,13 +79,13 @@ Note: This is just an idea I came up with now, it might be a terrible one!
 
 Designing a trial run for your idea should be fairly quick and easy. One way to start is to consider your assumptions, so you can later figure out how to challenge those assumptions in your live trial. Some assumptions for the idea above might be:
 
-Hypothesis: People want to get answers about products and the brand whilst shopping in-store
-Hypothesis: People are more likely to buy if they can make informed decisions
-Hypothesis: People want to avoid talking to shop-floor sales staff
+* Hypothesis: People want to get answers about products and the brand whilst shopping in-store
+* Hypothesis: People are more likely to buy if they can make informed decisions
+* Hypothesis: People want to avoid talking to shop-floor sales staff
 
 It’s possible that all these assumptions can be wrong, even though they sound believable. The key is to design a trial that tests the essential validity of your idea, which challenges these assumptions and proves your value hypothesis.
 
-Getting your idea to the trial will require a fraction of the time and money to take a full app to market
+Getting your idea to the trial will require a fraction of the time and money to take a full app to market.
 
 Here’s an example of what a trial for the above idea might look like.
 
@@ -92,7 +94,7 @@ Here’s an example of what a trial for the above idea might look like.
 * You ask them to arrange for a single staff member to be available to answer questions that come through the app that day
 * You run the trial for day, and then study the results, interview customers, etc
 
-The more constraints you can add to your trial, the less investment you’ll need up-front. There are fewer unknowns.
+The more constraints you can add to your trial, the less investment you’ll need up-front.
 
 ## Getting to the App Trial
 
@@ -120,6 +122,7 @@ By building a trial, you’re cutting out a metric ton of work. So the trial its
 
 You’ll still have to invest beyond the trial, but you won’t waste money on dead ends. And you’ll invest based on solid research.
 
-It’s all about managing risk and evolving an idea to market
+It’s all about managing risk and evolving an idea until it's market-fit.
 
+## Pocketworks are about de-risking your project
 Pocketworks is all about managing your risk when it comes to launching an app. We want you to be successful in the long term. There is a selfish element to this because if you succeed, we believe you’ll want to stick with us for the long term. And we’ll share in your success, creating a win-win relationship.
