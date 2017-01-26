@@ -1,6 +1,6 @@
 ---
 title: A simpler way to sell in healthcare
-date: 0000-12-31 23:58:15 -00:01
+date: 0000-12-31 23:58:00 -00:01
 permalink: "/case-study/a-simpler-way-to-sell-in-healthcare/"
 layout: case-study
 meta-post-type: Case Study
@@ -14,12 +14,12 @@ logo-image: fresenius-logo-40px.png
 case-study-challenge: Work with management to define concept to modernise the sales
   team and increase efficiency. Deliver initial concept within 12 weeks. Evolve into
   solution over 2 years.
-case-study-outcome: Pocketworks tested several concepts to find a solution
-  that satisfied project stakeholders; sales reps, product managers and
-  marketing. The solution was showcased at the Fresenius annual sales conference. The initial
-  solution led to cost reductions and increased legal compliance. The sales app has been adopted by
-  teams in over 12 countries. Comprised of an enterprise sales content management platform
-  with accompanying iPad, iPhone and Laptop sales apps.
+case-study-outcome: Pocketworks tested several concepts to find a solution that satisfied
+  project stakeholders; sales reps, product managers and marketing. The solution was
+  showcased at the Fresenius annual sales conference. The initial solution led to
+  cost reductions and increased legal compliance. The sales app has been adopted by
+  teams in over 12 countries. Comprised of an enterprise sales content management
+  platform with accompanying iPad, iPhone and Laptop sales apps.
 ---
 
 Fresenius Medical Care believed iPads could reduce their marketing costs and facilitate legal compliance.
