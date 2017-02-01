@@ -151,6 +151,7 @@ a:hover {
 	color: #fff;
 }
 
+
 .color-white-ish {
 	color: #fff;
   opacity: 0.8;
@@ -531,6 +532,7 @@ section.bg-gray{
 
 section.bg-orange a{
     color: white;
+    border-bottom: 2px dashed rgba(255,255,255,0.2)
 }
 
 section.bg-white.label{
