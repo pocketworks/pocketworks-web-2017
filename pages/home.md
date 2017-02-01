@@ -39,10 +39,6 @@ advice:
 layout: homepage
 ---
 
-
-
-
-
 <div class="col-md-8 col-md-offset-2 hidden">
   <h2>Mobile success means launching apps that truly engage customers whilst seizing opportunities for business growth.</h2>
   <p>
