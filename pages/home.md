@@ -27,7 +27,9 @@ grid-items:
 - url: "/case-study/reducing-queues-at-hotel-reception-desks/"
   cols: 8
 quote:
-  blurb: '"Tobin and his team helped us appreciate the importance of creating a simple user experience for our customers. Since 2012, we''ve grown to 50,000 mobile bookings a week, setting an industry record in the UK."'
+  blurb: '"Tobin and his team helped us appreciate the importance of creating a simple
+    user experience for our customers. Since 2012, we''ve grown to 50,000 mobile bookings
+    a week, setting an industry record in the UK."'
   author: Andy Pennock, Veezu
 advice:
   header: Advice
@@ -38,7 +40,6 @@ advice:
   bg-img: office-dim-black.jpg
 layout: homepage
 ---
-
 
 <!--more-->
 
