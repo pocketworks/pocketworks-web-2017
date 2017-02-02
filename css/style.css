@@ -697,6 +697,10 @@ section.featured.inner {
     filter: none;
 }
 
+ul.plain{
+  list-style: none;
+  padding-left: 0;
+}
 
 /* --- Flexslider --- */
 .flexslider {
