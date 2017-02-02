@@ -1,8 +1,8 @@
 ---
 title: Lee Sommerville
 date: 2016-07-11 00:00:00 Z
-image: "/images/about/ls.png"
+image: https://s3.amazonaws.com/pocketworks-website/team/lee.png
 job-title: Production Lead
 is-executive: false
+order: 1
 ---
-

@@ -1,8 +1,8 @@
 ---
-title: Danny
+title: Daniel Taylor
 date: 2016-07-18 00:00:00 Z
-image: http://s3.amazonaws.com/37assets/svn/765-default-avatar.png
+image: https://s3.amazonaws.com/pocketworks-website/team/danny.png
 job-title: Software Tester
 is-executive: false
+order: 9
 ---
-

@@ -1,7 +1,7 @@
 ---
 title: Tobin Harris
 date: 2016-03-12 20:33:00 Z
-image: "/images/about/th.png"
+image: https://s3.amazonaws.com/pocketworks-website/team/tobin.png
 job-title: Founder &amp; CEO
 email: tobin@pocketworks.co.uk
 is-executive: true
