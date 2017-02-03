@@ -1,6 +1,6 @@
 ---
 title: What we learned at the Private Hire & Taxi Exhibition
-date: 2015-05-15 00:00:00 Z
+date: 2015-05-15 01:00:00 +01:00
 page-title: Pocketworks - Mobile solutions for sales
 layout: blog
 meta-post-type: Blog-Type
