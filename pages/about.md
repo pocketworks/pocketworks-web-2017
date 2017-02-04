@@ -3,7 +3,7 @@ title: About Pocketworks
 permalink: "/about/"
 position: 2
 page-title: About Pocketworks
-feat-title: The mobile-first team
+feat-title: UK Mobile App Developers
 feat-blue-align: center
 layout: page
 description: At team of UK Mobile app developers specialising in iPhone, Android,
@@ -14,4 +14,3 @@ includes:
 - employees
 - our-values
 ---
-
