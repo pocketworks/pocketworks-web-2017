@@ -1,12 +1,12 @@
 ---
 title: 3 ways Apple is helping businesses in 2016
-date: 2016-06-10 00:00:00 Z
-page-title: Pocketworks - Mobile solutions for sales
-layout: blog
-meta-post-type: Blog-Type
-author: Tobin Harris
-description: Pocketworks - Mobile solutions for sales
+date: 2016-06-10 01:00:00 +01:00
+description: Looking at 3 ways Apple is helping businesses in 2016 and 2017.
 image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=800&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/shorter-ios-app-review-times.jpg
+meta-post-type: Blog-Type
+page-title: 3 ways Apple is helping businesses in 2016
+author: Tobin Harris
+layout: blog
 ---
 
 Some great new things are coming from Apple this summer. 1. Reduced app review times.  2. Subscription pricing for apps in any category. 3. Paid app listing promotions on the app store.
