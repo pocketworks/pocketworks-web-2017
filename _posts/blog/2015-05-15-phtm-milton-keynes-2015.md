@@ -1,12 +1,12 @@
 ---
 title: What we learned at the Private Hire & Taxi Exhibition
 date: 2015-05-15 01:00:00 +01:00
-page-title: Pocketworks - Mobile solutions for sales
-layout: blog
-meta-post-type: Blog-Type
-author: Tobin Harris
-description: Pocketworks - Mobile solutions for sales
+description: What we learned at the Private Hire & Taxi Exhibition
 image: https://pocketworks-website.s3.amazonaws.com/millbrook-prooving-ground.jpg
+meta-post-type: Blog-Type
+page-title: What we learned at the Private Hire & Taxi Exhibition
+author: Tobin Harris
+layout: blog
 ---
 
 As Uber might indicate, mobile apps are driving huge change in the taxi and private hire industry. We took a peek at the Private Hire &amp; Taxi Exhibition in Milton Keynes to see what's on the rise.
