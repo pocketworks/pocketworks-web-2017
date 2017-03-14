@@ -17,3 +17,5 @@ env:
 after_success:
   - chmod +x ./scripts/deploy.sh
   - ./scripts/deploy.sh
+notifications:
+  slack: pocketworks:0ryq5b9JFZa0kbTLF00Ll3y6
