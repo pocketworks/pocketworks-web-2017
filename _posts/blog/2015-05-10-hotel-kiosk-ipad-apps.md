@@ -1,12 +1,12 @@
 ---
 title: iPad Kiosks at the Hilton DoubleTree
-date: 2015-05-10 00:00:00 Z
-page-title: Pocketworks - Mobile solutions for sales
-layout: blog
-meta-post-type: Blog-Type
-author: Tobin Harris
-description: Pocketworks - Mobile solutions for sales
+date: 2015-05-10 01:00:00 +01:00
+description: iPad Kiosks at the Hilton DoubleTree
 image: https://pocketworks-website.s3.amazonaws.com/kiosk_dbt_01.jpg
+meta-post-type: Blog-Type
+page-title: iPad Kiosks at the Hilton DoubleTree
+author: Tobin Harris
+layout: blog
 ---
 
 Our hotel kiosk app is a great example of how mobile apps can be used to attract customers and reduce costs. The app allows hotel guests and staff to book a taxi in seconds.
