@@ -2,7 +2,7 @@
 title: Is Windows Mobile relevant to you now?
 date: 2015-08-14 01:00:00 +01:00
 description: Is Windows Mobile relevant to you now?
-image: http://www.winbeta.org/sites/default/files/news/Windows-10-on-phones_2.jpg
+image: nokia-windows-phone.jpg
 meta-post-type: Blog-Type
 page-title: Is Windows Mobile relevant to you now?
 author: Tobin Harris
