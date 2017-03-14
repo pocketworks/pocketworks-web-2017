@@ -17,6 +17,8 @@ It's aimed at anyone managing their creative projects with Github. It helps you 
 
 <!--more-->
 
+## Update March 2017: This project is still being maintained, but because we use JIRA for our tickets one of the community is kindly handling pull requests.
+
 ## Why?
 
 At Pocketworks, we tend to put *everything* into [github](http://github.com) - features, bugs, tasks and amends. So this nifty tool means we can get that info out onto our card wall quickly.
