@@ -1,17 +1,17 @@
 ---
 title: Credit card payments now accepted in the Amber Cars app
-date: 2015-04-01 00:00:00 Z
-page-title: Pocketworks - Mobile solutions for sales
-layout: blog
-meta-post-type: Blog-Type
-author: Tobin Harris
-description: Pocketworks - Mobile solutions for sales
+date: 2015-04-01 01:00:00 +01:00
+description: Credit card payments now accepted in the Amber Cars app
 image: https://farm8.staticflickr.com/7368/12696032183_0d9622ae98_b.jpg
+meta-post-type: Blog-Type
+page-title: Credit card payments now accepted in the Amber Cars app
+author: Tobin Harris
+layout: blog
 ---
 
 Amber Cars customers using Android phones can now make bookings on their credit card. This brings them added convenience whilst allowing Amber to transact £5M in the first year.
 
-<!--more-->
+<!--more--> 
 
 ## A convenient move
 
