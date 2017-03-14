@@ -1,12 +1,12 @@
 ---
 title: Announcing PocketFORMS - our iPad forms app
-date: 2015-02-20 00:00:00 Z
-page-title: Pocketworks - Mobile solutions for sales
-layout: blog
-meta-post-type: Blog-Type
-author: Tobin Harris
-description: Pocketworks - Mobile solutions for sales
+date: 2015-02-20 00:00:00 +00:00
+description: Announcing PocketFORMS - our iPad forms app
 image: https://pocketworks-website.s3.amazonaws.com/pocketforms-sail-away.jpg
+meta-post-type: Blog-Type
+page-title: Announcing PocketFORMS - our iPad forms app
+author: Tobin Harris
+layout: blog
 ---
 
 PocketFORMS is an iPad app for data capture.
