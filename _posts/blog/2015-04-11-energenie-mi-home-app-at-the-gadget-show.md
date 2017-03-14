@@ -1,12 +1,12 @@
 ---
 title: Energenie Mi|Home at the Gadget Show, April 2015 Birmingham NEC
-date: 2015-04-11 00:00:00 Z
-page-title: Pocketworks - Mobile solutions for sales
-layout: blog
-meta-post-type: Blog-Type
-author: Tobin Harris
-description: Pocketworks - Mobile solutions for sales
+date: 2015-04-11 01:00:00 +01:00
+description: Energenie Mi|Home at the Gadget Show, April 2015 Birmingham NEC
 image: https://pocketworks-website.s3.amazonaws.com/energenie-mihome-android-scene.jpg
+meta-post-type: Blog-Type
+page-title: Energenie Mi|Home at the Gadget Show, April 2015 Birmingham NEC
+author: Tobin Harris
+layout: blog
 ---
 
 We took a trip out to see our friends at Energenie exhibiting at the April 2015 Gadget Show in Birmingham, where they're launching their Mi&#124;Home range of smart home control products (electrical sockets, radiator valves and light switches).
