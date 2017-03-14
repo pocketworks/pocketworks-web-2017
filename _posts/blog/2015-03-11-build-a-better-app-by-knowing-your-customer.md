@@ -1,12 +1,12 @@
 ---
 title: How to build a better app by knowing your customer
-date: 2015-03-11 00:00:00 Z
-page-title: Pocketworks - Mobile solutions for sales
-layout: blog
-meta-post-type: Blog-Type
-author: Tobin Harris
-description: Pocketworks - Mobile solutions for sales
+date: 2015-03-11 00:00:00 +00:00
+description: How to build a better app by knowing your customer
 image: https://farm8.staticflickr.com/7629/16409711673_ee9a52a8de_b.jpg
+meta-post-type: Blog-Type
+page-title: How to build a better app by knowing your customer
+author: Tobin Harris
+layout: blog
 ---
 
 Successful apps are ones that people use.
@@ -14,6 +14,8 @@ Successful apps are ones that people use.
 Here are 3 tips to make your app successful by putting yourself in the shoes of your customer.
 
 <!--more-->
+
+## Update March 2017: According to the [usertesting.com 2017 user survey](http://info.usertesting.com/ux-industry-survey-2017.html), customer expectations have increased over the past few years. This means that clunky, disjointed experiences result in customers rejecting your product. Because the bar is constantly rising, knowing your customer is more important in 2017 than it was when we wrote this.  
 
 ## 1. Practice customer empathy
 
