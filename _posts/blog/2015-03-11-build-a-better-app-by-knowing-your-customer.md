@@ -15,7 +15,7 @@ Here are 3 tips to make your app successful by putting yourself in the shoes of 
 
 <!--more-->
 
-## Update March 2017: According to the [usertesting.com 2017 user survey](http://info.usertesting.com/ux-industry-survey-2017.html), customer expectations have increased over the past few years. This means that clunky, disjointed experiences result in customers rejecting your product. Because the bar is constantly rising, knowing your customer is more important in 2017 than it was when we wrote this.  
+## Update March 2017: According to the [usertesting.com 2017 user survey](http://info.usertesting.com/ux-industry-survey-2017.html), customer expectations have increased over the past few years. This means that clunky, disjointed experiences result in customers rejecting your product. Because the bar is constantly rising, knowing your customer is more important in 2017 than it was in 2015 when we wrote this.  
 
 ## 1. Practice customer empathy
 
