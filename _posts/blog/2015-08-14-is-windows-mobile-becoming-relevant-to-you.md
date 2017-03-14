@@ -2,7 +2,7 @@
 title: Is Windows Mobile relevant to you now?
 date: 2015-08-14 01:00:00 +01:00
 description: Is Windows Mobile relevant to you now?
-image: nokia-windows-phone.jpg
+image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://pocketworks-website.s3.amazonaws.com/nokia-windows-phone.jpg
 meta-post-type: Blog-Type
 page-title: Is Windows Mobile relevant to you now?
 author: Tobin Harris
