@@ -2,8 +2,8 @@
 title: Digital Product Designer
 date: 2017-04-25 01:00:00 +01:00
 permalink: "/jobs/mobile-lead-designer-leeds-uk/"
-page-title: Digital Product Designer
 published: false
+page-title: Digital Product Designer
 layout: page
 type: job
 description: We're looking for a lead designer to help our growing uk mobile apps
@@ -13,11 +13,11 @@ includes:
 careers-hero:
   bg-img: office-dim.jpg
   title: Digital Product Designer, Leeds, UK
-  desc: Join the Pocketworks team and help us create thoughtful
-    customer experiences using digital technology.
+  desc: Join the Pocketworks team and help us create thoughtful customer experiences
+    using digital technology.
 content-col: 8
 avail-title: Lead Designer, Leeds, Office Based
-avail-desc: Help us research, design and validate modern user-centric digital products 
+avail-desc: Help us research, design and validate modern user-centric digital products
   for startups and established businesses.
 avail-more-info-link: "/mobile-lead-designer-leeds-uk/"
 avail-more-info-link-text: More about our lead mobile designer role
