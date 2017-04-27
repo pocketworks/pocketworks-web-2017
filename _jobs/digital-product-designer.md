@@ -19,8 +19,6 @@ avail-title: Digital Product Designer
 avail-subtitle: April 2017. Leeds. Office Based. Flexible Options.
 avail-desc: Research, design and validate modern user-centric digital products for
   startups and established businesses.
-avail-more-info-link: "/mobile-lead-designer-leeds-uk/"
-avail-more-info-link-text: 
 ---
 
 ## Position: Lead Designer
