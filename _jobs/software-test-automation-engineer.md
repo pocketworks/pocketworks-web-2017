@@ -2,8 +2,8 @@
 title: Software Test Automation Engineer
 date: 2016-08-03 01:00:00 +01:00
 permalink: "/jobs/software-test-automation-engineer/"
-page-title: Mobile Apps Test Automation Engineer Job, Leeds, UK
 published: false
+page-title: Mobile Apps Test Automation Engineer Job, Leeds, UK
 layout: page
 type: job
 description: We're looking for a test automation engineer to help us increase app

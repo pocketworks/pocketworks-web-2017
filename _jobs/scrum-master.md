@@ -12,11 +12,12 @@ includes:
 careers-hero:
   bg-img: office-dim.jpg
   title: Scrum Master, Leeds, UK
-  desc: Join the Pocketworks team and help us create thoughtful
-    customer experiences using digital technology.
+  desc: Join the Pocketworks team and help us create thoughtful customer experiences
+    using digital technology.
 content-col: 8
 avail-title: Scrum Master
 avail-subtitle: April 2017. Leeds. Office Based. Flexible Options.
+<<<<<<< HEAD
 avail-desc: Help our business embrace agile more deeply, and help the teams achieve a fluid, enjoyable agile process.
 ---
 
