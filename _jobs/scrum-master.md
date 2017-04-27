@@ -17,8 +17,7 @@ careers-hero:
 content-col: 8
 avail-title: Scrum Master
 avail-subtitle: April 2017. Leeds. Office Based. Flexible Options.
-avail-desc: Help us research, design and validate modern user-centric digital products 
-  for startups and established businesses.
+avail-desc: Help our business embrace agile more deeply, and help the teams achieve a fluid, enjoyable agile process.
 ---
 
 ## Join Pocketworks as a Scrum Master
