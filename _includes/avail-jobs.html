@@ -16,27 +16,37 @@
 <section class="section bg-white">
   <div class="container">
     <div class="row">
-      <div class="col-md-8 pad-top40">
-      <h2>{{ jobs.available.header }}</h2>
+      <div class="col-md-8 ">
+      
+      
+     
+      
 
-      <ul>
       {% for opening in avail-jobs %}
-
-        <li style="margin-bottom: 40px;">
-          <h3 style="font-size: 19px;font-weight: bold;margin: 0px;">{{ opening.avail-title }}</h3>
+        
+          <h2 class="pad-top20 pad-bot0">
+          <a href="{{ opening.permalink }}">{{ opening.avail-title }}</a> <br/><small>{{ opening.avail-subtitle }}</small>
+          </h2>
+          
+          
           {% if opening.avail-desc %}
             {{ opening.avail-desc }}
           {% else %}
             {{ opening.content }}
           {% endif %}
+
           {% if opening.avail-more-info-link %}
           <a href="{{ site.baseurl }}/jobs{{ opening.avail-more-info-link }}">{{ opening.avail-more-info-link-text }}</a>
           {% endif %}
-        </li>
+        
 
       {% endfor %}
-      </ul>
+      
 
+      </div>
+      <div class="col-md-4 pad-top40">
+       
+       <i/>{{jobs.available.description}}</i>
       </div>
     </div>
   </div>

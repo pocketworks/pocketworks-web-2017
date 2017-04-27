@@ -8,8 +8,8 @@ type: job
 description: Careers in mobile app development, app ux and design and technology sales
 includes:
 - careers-hero
-- two-col-layout
 - avail-jobs
+- two-col-layout
 - jobs-divider
 careers-hero:
   bg-img: BB8-dim.jpg
