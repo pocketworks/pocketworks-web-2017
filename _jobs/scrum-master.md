@@ -31,7 +31,7 @@ There's a great challenge here. We've been doing Scrum for a few years, and now 
 
 * You understand Scrum and can talk about it fluently
 * You understand the Scrum Master role in it's traditional sense
-* You understand Flacid Scrum and how to avoid it
+* You understand Flaccid Scrum and how to avoid it
 * You've experience coaching agile teams and defending their processes
 * You can communicate confidently and clearly with senior executives and product owners
 * You have experience working with software developers
