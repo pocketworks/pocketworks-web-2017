@@ -1664,3 +1664,8 @@ Media queries
   height: 50px;
   margin: -50px 0 0;
 }
+
+.pipedriveWebForm .formWrap, .pipedriveWebForm .formButtonWrap{ border: none;}
+
+
+
