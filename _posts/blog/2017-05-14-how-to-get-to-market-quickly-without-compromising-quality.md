@@ -1,7 +1,9 @@
 ---
 title: How to get to market quickly without compromising quality
-date: 2017-05-14 00:00:00 +00:00
-description: "If you're like most of our clients, you'll want to get your ideas to market quickly. What we've learned is this: you can't achieve speed without having quality."
+date: 2017-05-14 01:00:00 +01:00
+description: 'If you''re like most of our clients, you''ll want to get your ideas
+  to market quickly. What we''ve learned is this: you can''t achieve speed without
+  having quality.'
 image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1024&refresh=2592000&url=https://cdn1.tekrevue.com/wp-content/uploads/2015/01/speedometer-blazing-fast.jpg
 meta-post-type: Blog-Type
 client: Advice
