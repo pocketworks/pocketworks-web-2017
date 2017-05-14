@@ -37,7 +37,7 @@ When creating a digital product, quality cutting is usual an invisible problem. 
 
 > Think of it as starting fast and then suffering a tiny continuous decelleration.
 
-The main solution is to create an evironment where people can do good work. And to work with people who want to do good work. This means they can factor in a layer of quality practices that only marginally increase the costs, whilst protecting the future of your investment.
+The main solution is to create an environment where people can do good work. And to work with people who want to do good work. This means they can factor in a layer of quality practices that only marginally increase the costs, whilst protecting the future of your investment.
 
 ## Things to look out for
 
