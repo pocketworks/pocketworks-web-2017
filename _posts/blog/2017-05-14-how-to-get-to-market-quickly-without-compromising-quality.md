@@ -45,35 +45,35 @@ Here are some examples of how speed without quality measures can hurt you, and s
 
 ### Problem: Progress slows down after several months
 
-#### What you’ll see
+#### What you’ll see:
 
 You’re getting frustrated because you ask for simple changes, but that causes other things to break. They take too long and cost too much.
 
-#### What’s happening: 
+#### What’s happening?
 The developers are using lean and agile principles to deliver new releases of your product every week or two. However, for whatever reason, they feel they don’t have time to do best practices such as unit testing or code reviews. The crappy code quality starts to make introducing changes difficult. 
 
-#### Some solutions
+#### Some solutions:
 
 Talk to your software partner and ask them if their developers are happy with the code quality. Ask them if there’s anything more they can be doing to improve the code base to increase the pace of the project. If they don’t have skills or experience in best practices, ask management if their willing to train their developers or give them the time they need to get up to speed. It’s a win-win. Tell your project stakeholders that investing in some gradual code improvements will help improve the pace at which you can innovate, even if there’s a small cost increase.
 
 ### Problem: Your product isn’t resonating with your audience
 
-#### What you’ll see
+#### What you’ll see:
 
 Your product looks good and has the features you think your customers need. But it’s a bit clunky and the product isn’t resonating with your target audience. Some users might be complaining. Most of your users don’t come back for more.
 
-#### What’s happening:
+#### What’s happening?
 
 It’s possible you’ve put too much emphasis on building your ideas rather than enabling your software designers to research and experiment. When rushed, designers may not feel they have the time or budget to build empathy with your target audience nor the essential research that feeds into the ideas phase.
 
-#### Some solutions
+#### Some solutions:
 
 Talk to your software team and ask if the designers have time to work in a way that can get results. Explain to stakeholders that good design translates to a larger user base and a more successful product. Ask them if they can recommend any research or validation activities for when you revisit or add new features. If you're telling the team exactly what to design, you could consider trying to step back and let them get involved with the ideation side of things.
 
 ### Problem: People flitting on and off the project
 
 
-#### What you'll see
+#### What you'll see:
 
 Work is overrunning. You’re not feeling like they’re “on it”. You notice various different people coming on and off your project. And each time they have to learn what’s going on, so you’ll end up spending time getting them up to speed. 
 
@@ -81,7 +81,7 @@ Work is overrunning. You’re not feeling like they’re “on it”. You notice
 
 It’s possible the product owner doesn’t have time to call meetings that look at the bigger picture and make a plan. So the team can’t plan a working schedule that actually fits what you need. All this last-minute scheduling is making people rushed and causing mistakes that increase cost. Your software partner might have people juggling multiple projects alongside yours in order achieve some progress.
 
-#### Some solutions
+#### Some solutions:
 
 Projects run much more successfully when people understand the bigger picture and can work focus on the problem in hand for decent chunks of time - think weeks or months. Ask your software partner to arrange monthly or quarterly road mapping sessions with your stakeholders so that everyone can see where things going and plan for it. Ask your software partner for block bookings of focused time. Include task dependency analysis in your workshops so that people have everything they need to deliver. 
 
