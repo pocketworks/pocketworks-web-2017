@@ -3,6 +3,7 @@ title: Scrum Master
 date: 2017-04-25 01:00:00 +01:00
 permalink: "/jobs/scrum-master-job-leeds-uk/"
 page-title: Scrum Master
+published: false
 layout: page
 type: job
 description: We're looking for a lead designer to help our growing uk mobile apps
@@ -23,7 +24,7 @@ avail-desc: Help our business embrace agile more deeply, and help the teams achi
 
 ## Join Pocketworks as a Scrum Master
 
-You'll like this role if you're looking to be a scrum master in a growing company that delivers exciting projects for a variety of clients. 
+You'll like this role if you're looking to be a scrum master in a growing company that delivers exciting projects for a variety of clients.
 
 There's a great challenge here. We've been doing Scrum for a few years, and now want to take it to the next level by hiring a full-time Scrum Master. You'll have the opportunity to transform the business and help us create a smoother, more transparent and enjoyable process.
 
@@ -46,7 +47,7 @@ There's a great challenge here. We've been doing Scrum for a few years, and now 
 * Flexibility in your working hours, but please make the standup at 9:30am!
 * Work from home when needed
 * Family friendly. Many of us have kids. We know what it's like.
-* Relaxed environment 
+* Relaxed environment
 * Booming city centre location near bars, shops and restaurants
 * Regular team lunches (often at Trinity Kitchen, Good Luck Club etc)
 * Friday beers (and sometimes Wednesday beers haha)

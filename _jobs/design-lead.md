@@ -29,7 +29,7 @@ Howdy!
 
 Pocketworks is a small Leeds mobile-first design & development company.
 
-## Why we need you
+### Why we need you
 The team need a senior designer to lead customer interviews, facilitate Google Design Sprints (or similar), and develop HCI experiences that make users happy.
 
 If you’re up for it, we’d also like you to make sure we’re always improving our design processes, and influence our design direction in business planning meetings.
