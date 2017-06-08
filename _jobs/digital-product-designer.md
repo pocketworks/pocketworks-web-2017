@@ -21,13 +21,14 @@ avail-desc: Research, design and validate modern user-centric digital products f
   startups and established businesses.
 ---
 
-## How we see design
+## Is this a good fit for you?
 
-Do you believe the best digital products come from collaboration and iteration? Taking steps to create empathy with audiences is hugely important to designing successful products? Do you understand how to take quantative data and feed it into future product iterations?
+* Do you believe the best digital products come from collaboration and iteration?
+* Do you take steps to create empathy with audiences when designing successful products?
+* Do you understand how to take quantative data and feed it into future product iterations?
+* Do you like to work quickly and pragmatically, using guerilla tactics where necessary
 
 If so, you might be a good for for who we're looking for.
-
-We like to move quickly and pragmatically; finding the fastest and leanest ways to create success for our clients without compromising the integrety of our design processes.
 
 Right now we're not perfect in our design practices but want to raise the bar. We hope you can help.
 
@@ -35,19 +36,23 @@ Right now we're not perfect in our design practices but want to raise the bar. W
 
 We're looking for a digital product designer who's experienced with both user experience design and user interface design.
 
+The role would involve leading customer interviews and workshops, research, creating mobile and web prototypes and creating polished user interfaces using latest mobile guidelines where applicable. Unlying all this you'll help us move toward more mature design methods.
+
 You'll work on many native iOS and Droid mobile applications, and a good few web apps too. Many of our clients are startups so there are a few nice "blank slate" projects. We're also expecting to work with chat bots requiring conversational interfaces before too long.
 
 You'll help the team create better products by introducing more design practices. Right now, we're looking to embrace practices from IDEO's Human Centered Design and Google Design Sprints, so you're role will be to facilitate that.
+
 
 You'll be required to work directly with clients sometimes, and also getting out in the field for research.
 
 ## What you'll be working on
 
-Pocketworks designs and develops modern software products involving any modern technologies such as mobile, conversational interfaces, web, wearables and IoT. We work for a variety of clients on a wide range of products. From Uber-like taxi apps, to smart warehouse safety platforms, to small startup ventures. It's a fun mix.
+Pocketworks designs and develops modern software products involving technologies such as mobile, chatbots, web, wearables and IoT.
 
-The role would involve leading customer interviews and workshops, helping to shape the design processes going forward, and creating experiences that work for users.
+You’ll be designing digital products for a mixture of startups and established companies. The startup stuff is fun because you get to have a blank canvas, and potentially see the product grow. The established products are cool because you get to improve products used my 100,000+ users.
 
-If you join us, you’ll be designing digital products for a mixture of startups and established companies. The startup stuff is fun because you get to have a blank canvas, and potentially see the product grow. The established products are cool because you get to improve products used my 100,000+ users.
+We like to move quickly and pragmatically; finding the fastest and leanest ways to create success for our clients without compromising the integrety of our design processes.
+
 
 ## Ideally you'd...
 
