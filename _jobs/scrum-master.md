@@ -2,8 +2,8 @@
 title: Scrum Master
 date: 2017-04-25 01:00:00 +01:00
 permalink: "/jobs/scrum-master-job-leeds-uk/"
-page-title: Scrum Master
 published: false
+page-title: Scrum Master
 layout: page
 type: job
 description: We're looking for a lead designer to help our growing uk mobile apps
