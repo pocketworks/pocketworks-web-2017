@@ -1524,9 +1524,7 @@ Media queries
 
 
 @media (min-width: 959px) and (max-width: 1199px) {
-    .navbar-nav {
-        margin-top: 20px;
-    }
+   
 
     section.featured {
         background-size: 100%;
@@ -1543,9 +1541,7 @@ Media queries
 
 @media (min-width: 959px) and (max-width: 1500px) {
 
-    .navbar-nav {
-        margin-top: 20px;
-    }
+   
 
     /*section.featured {*/
         /*background-size: auto;*/
@@ -1560,22 +1556,23 @@ Media queries
 
 }
 
-@media only screen and (min-device-width : 979px) and (max-device-width : 1024px)  {
-
+@media (min-width: 768px) and (max-width: 991px) {
+	.navbar{
+    	height: 100px;
+    }
     .navbar-nav {
         margin-top: 20px;
     }
-
 }
+
+
 
 /*
  * iPad in portrait
  */
 @media only screen and (min-width: 768px) and (max-width: 962px) {
 
-    .navbar-nav {
-        margin-top: 20px;
-    }
+   
 
     .case-study-1{
         background-position: right -400px top 100px;
