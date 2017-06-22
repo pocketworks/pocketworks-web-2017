@@ -34,7 +34,7 @@ The team need a senior designer to lead customer interviews, facilitate Google D
 
 If you’re up for it, we’d also like you to make sure we’re always improving our design processes, and influence our design direction in business planning meetings.
 
-If you join us, you’ll be designing digital products for a mixture of startups and established companies. The startup stuff is fun because you get to have a blank canvas, and potentially see the product grow. The established products are cool because you get to improve products used my 100,000+ users.
+If you join us, you’ll be designing digital products for a mixture of startups and established companies. The startup stuff is fun because you get to have a blank canvas, and potentially see the product grow. The established products are cool because you get to improve products used by 100,000+ users.
 
 ## Is this right for you?
 
