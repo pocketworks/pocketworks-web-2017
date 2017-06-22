@@ -12,8 +12,8 @@ layout: default
   <div class="container">
 
     <div class="row">
-      
-      
+
+
       <div class="col-md-7">
         <h2>{{ contact.location.header }}</h2>
         <table class="table table-striped">
@@ -37,12 +37,10 @@ layout: default
 
       </div>
 
-      <div class="col-md-5" style="height: 1000px;">
-      <h2>Hire us to develop your software project</h2>
-      <div class="pipedriveWebForms" data-pd-webforms="https://pipedrivewebforms.com/form/b961d1feaa69da0136e106ed1a3e31bd1730301"><script src="https://pipedrivewebforms.com/webforms.min.js">
-        
-      </script></div> 
-      
+      <div class="col-md-5" style="height: 1200px;">
+      <h2>Start your project</h2>
+      <div class="pipedriveWebForms" data-pd-webforms="https://pipedrivewebforms.com/form/b961d1feaa69da0136e106ed1a3e31bd1730301"></div>
+      <script async defer src="https://pipedrivewebforms.com/webforms.min.js"></script>
       </div>
     </div>
 
@@ -54,15 +52,12 @@ layout: default
     <div id="map"></div>
 </section>
 
-
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-
 <script type="text/javascript">
 
     // When the window has finished loading create our google map below
-    google.maps.event.addDomListener(window, 'load', init);
+    //google.maps.event.addDomListener(window, 'load', init);
 
-    function init() {
+    function initMap() {
         // Basic options for a simple Google Map
         // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
         var latLng = new google.maps.LatLng(53.797583, -1.554466);
@@ -71,7 +66,8 @@ layout: default
             zoom:15,
 
             // The latitude and longitude to center the map (always required)
-            center: latLng // Pocketworks HQ
+            center: latLng, // Pocketworks HQ
+            scrollwheel: false
 
             // How you would like to style the map.
             // This is where you would paste any style found on Snazzy Maps.
@@ -102,4 +98,13 @@ layout: default
             title: 'Pocketworks'
         });
     }
+
+
 </script>
+
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD99ynVuQoAQTpqi4tuqGO5cIPUQrd7di8&callback=initMap">
+</script>
+
+
+

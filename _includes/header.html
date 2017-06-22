@@ -30,7 +30,7 @@
         {% for item in header.nav-items %}
           {% assign item_url = item.url | prepend: "/" %}
 
-          <li {% if page.url == item_url %}class="active"{% endif %}><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a></li>
+          <li {% if page.url == item_url %}class="active"{% endif %}><a href="{{ site.baseurl }}/{{ item.url }}" {% if item.turbolinks == false %} data-turbolinks="false" {% endif %}>{{ item.title }}</a></li>
 
         {% endfor %}
 
